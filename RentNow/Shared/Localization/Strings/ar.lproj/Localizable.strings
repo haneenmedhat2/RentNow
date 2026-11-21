@@ -1,0 +1,1264 @@
+/* 
+  Localizable.strings
+  App
+
+  Created by MGAbouarab on 29/12/2023.
+  
+*/
+
+
+//MARK: - HomeViewController.swift -
+"Home_navigation_title" = "الرئيسية";
+"near_stores_title" = "المتاجر القريبة منك";
+"categories_section_title" = "الأقسام";
+"Sign out" = "تسجيل خروج";
+"Childern information" = "معلومات الأبناء";
+"Car model" = "موديل السيارة";
+"/ day" = "/ اليوم";
+"Close" = "إغلاق";
+//MARK: - NearProvidersView.swift -
+"Open_Status" = "مفتوح";
+"Closed_Status" = "مغلق";
+"Subscription data" = "بيانات الإشتراك";
+//MARK: - NavigationSelectAddressView.xib -
+"Select_Your_Address_Title" = "العنوان";
+"Select_Your_Address" = "إختر العنوان";
+"The trip has been successfully" = "تم إضافة الرحلة بنجاح";
+"You can now proceed to the payment page" = "يمكنك الان المتابعة لصفحة الدفع";
+//MARK: - NotificationsViewController.swift -
+"Notification_title_page" = "الإشعارات";
+
+//MARK: - PickLocationViewController.swift -
+"Select_location_title_page" = "إختر الموقع";
+
+//MARK: - PickLocationViewController.xib -
+"Confirm_location_action" = "تأكيد";
+"Loading_Address_text" = "تحديد الموقع...";
+
+"Choose location" = "اختر موقعك";
+
+//MARK: - ParcelDeliveryViewController.swift -
+"ParcelDeliveryTitle" = "توصيل طرد";
+
+//MARK: - CreateOrderDetailsView.swift -
+"Create_Your_order_Details_title" = "تفاصيل الطلب:";
+"Your_order_Notes_title" = "ملاحظاتك";
+"Write_your_Notes_here" = "في حالة وجود ملاحظات أضف هنا";
+
+//MARK: - PickImageView.swift -
+"attach_images_title" = "إرفاق صور";
+"attach_image_title" = "إرفاق صورة";
+
+//MARK: - PaymentTypesView.xib -
+"Payment_type_title" = "طريقة الدفع:";
+
+//MARK: - OrderReceiveDetailsView.xib -
+"Order_Receive_Details_View_Title" = "تفاصيل استلام الطلب:";
+
+//MARK: - OrderReceiveDetailsView.xib -
+"Receive_Location_title" = "موقع الإستلام";
+"Receive_Location_placeholder" = "يرجي إخال موقع الإستلام";
+"Delivery_Location_title" = "موقع التسليم";
+"Delivery_Location_placeholder" = "يرجي إدخال موقع التسليم";
+"Delivery_Time_Title" = "وقت التوصيل";
+"Delivery_Time_Placeholder" = "يرجي اختيار وقت التوصيل";
+
+//MARK: - OrderReceiveDetailsView.swift -
+"One_Hour" = "ساعة";
+"Two_Hour" = "ساعتان";
+"Three_Hour" = "ثلاث ساعات";
+"Four_Hour" = "اربع ساعات";
+"Five_Hour" = "خمس ساعات";
+"Six_Hour" = "ست ساعات";
+"Seven_Hour" = "سبع ساعات";
+"Eight_Hour" = "ثماني ساعات";
+"Nine_Hour" = "تسع ساعات";
+"Ten_Hour" = "عشر ساعات";
+
+//MARK: OrderPriceSummaryView.xib -
+"Order_Price_Summary_title" = "ملخص الطلب:";
+
+//MARK: - ParcelDeliveryViewModel.swift -
+"Delivery_price_title" = "سعر التوصيل";
+"Discount_value_title" = "قيمة الخصم";
+"Application_commission_title" = "عمولة التطبيق";
+"Value_Added_title" = "القيمة المضافة";
+"Price_Sum_title" = "المجموع";
+
+//MARK: - ParcelDeliveryViewController.xib -
+"Confirm_Parcel_Order_Button_Title" = "تأكيد الطلب";
+
+//MARK: - OrderValidationError.swift -
+"OrderValidationError_emptyOrderDetails" = "الرجاء كتابة ملاحظاتك";
+"OrderValidationError_emptyOrderPaymentType" = "الرجاء اختيار طريقة الدفع";
+"OrderValidationError_emptyOrderStartLocation" = "يرجي إخال موقع الإستلام";
+"OrderValidationError_emptyOrderEndLocation" = "يرجي إدخال موقع التسليم";
+"OrderValidationError_emptyOrderDurationTime" = "يرجي اختيار وقت التوصيل";
+
+//MARK: - SuccessCreateOrderViewController.xib -
+"Congratulation_Success_order_title" = "تهانينا! تم إرسال طلبك بنجاح";
+"Congratulation_Success_order_message" = "تم ارسال طلبك بنجاح، ويمكنك متابعة الطلب الخاص بك من قائمة طلباتي.";
+"Follow_Order_Button_title" = "متابعة الطلب";
+"Back_Home_Button_title" = "الرجوع للرئيسية";
+
+//MARK: - BaseViewController.swift -
+"Login_alert_title" = "تسجيل الدخول";
+"Login_alert_message" = "للمتابعة يجب عليك تسجيل الدخول أولاً";
+"Login_alert_action_title" = "تسجيل الدخول";
+"alert_cancel_title" = "إلغاء";
+
+//MARK: - SpecialRequestViewController.swift -
+"SpecialRequestTitle" = "طلب خاص";
+
+//MARK: - SpecialRequestViewController.xib -
+"Confirm_Special_Order_Button_Title" = "تأكيد الطلب";
+
+//MARK: - MoreViewController.swift -
+"More_Title" = "المزيد";
+"Account_Information_Header_Title" = "معلومات حسابي";
+"Personal_Profile_More_Title" = "الملف الشخصي";
+"Settings_More_Title" = "الاعدادات";
+"Packages_More_Title" = "الباقات";
+"Share_Partner_More_Title" = "تشاركي";
+"Device_Market_More_Title" = "سوق الاجهزة";
+"About_Platform_More_Title" = "عن المنصة";
+"Financial_Transactions_More_Title" = "المعاملات المالية";
+"My_Complains_More_Title" = "الشكاوي المقدمة";
+"Wallet_More_Title" = "المحفظة";
+"Users_Comments_More_Title" = "تعليقات المستخدمين";
+"General_Settings_Header_Title" = "إعدادات عامة";
+"Notifications_Settings_More_Title" = "إعدادات الإشعارات";
+"Language_Settings_More_Title" = "إعدادات اللغة";
+"General_Information_Header_Title" = "معلومات عامة";
+"About_Us_More_Title" = "من نحن";
+"Contact_Us_More_Title" = "تواصل معنا";
+"Privacy_More_Title" = "سياسة الخصوصية";
+"Terms_And_Conditions_More_Title" = "الشروط والأحكام";
+"Rate_App_More_Title" = "قيم التطبيق";
+"Logout_More_Title" = "تسجيل خروج";
+"Join_Us_More_Title" = "كيف اعمل في مرسول أومر";
+"Connect_Us_With_Telegram_More_Title" = "اتصل بنا علي تليجرام";
+"Message text" = "نص الرسالة";
+"Send" = "إرسال";
+//MARK: - NavigationUserInfoView.swift -
+"Default_Welcome_Title" = "مرحبا بك";
+"Welcome" = "مرحبا";
+"Guardian Name" = "إسم ولى الأمر";
+"Technical support" = "الدعم الفنى";
+"Please choose application language" = "من فضلك قم بإختيار لغة التطبيق";
+//MARK: - ProviderHeaderView.swift -
+"Work_hours_provider_details_text" = "مواعيد العمل";
+"We awfa application" = "نحن تطبيق أوفى";
+"Join us and enjoy convenient and safe delivery services!" = "إنضموا إلينا وتمتعوا بخدمات توصيل مريحة وأمنة!";
+//MARK: - ProviderHeaderView.xib -
+"Delivery_Price_Text" = "سعر التوصيل من خلالنا:";
+"Tracking Details" = "التفاصيل";
+"Store_Branches_title" = "فروع المتجر";
+"Change_Location_title" = "تغيير";
+"Enter health condition details..." = "أدخل تفاصيل الحالة الصحية...";
+//MARK: - AppHelper.swift -
+"Open_Location_With_title" = "فتح بواسطة";
+"Cancel_Action_title" = "الغاء";
+"Maps_Action_title" = "خرائط آبل";
+"Google_Maps_Action_title" = "خرائط جوجل";
+
+//MARK: - ProductFeaturesView.xib -
+"Features_Section_Title" = "السمات";
+
+//MARK: - ProductDetailsViewController.xib -
+"Product_Details_Price" = "السعر";
+"Required_Product_Details_Amount" = "الكمية المطلوبة";
+"Confirm_Normal_Order_Button_Title" = "تأكيد";
+
+//MARK: - ProductAdditionsView.xib -
+"Additions_Section_Title" = "الإضافات";
+
+//MARK: - String.swift -
+"App_Currency" = "ر.س";
+"Didn't receive the code?" = "لم تستلم الرمز ؟";
+//MARK: - ProductDetailsError.swift -
+"Maximum_Amount_Reached" = "أقصى كمية متاحة هي:";
+"Invalid_Entered_Amount" = "الرجاء إدخال الكمية بشكل صحيح";
+"Not_Select_All_Required_Features" =  "الرجاء اختيار السمات المطلوبة اولاُ لتحديد أقصي عدد متاح";
+"⏳ Please wait until the time is up before resubmitting." = "⏳ انتظر حتى ينتهي الوقت قبل إعادة الإرسال";
+//MARK: - ProviderDetailsCartActionView.xib -
+"Select_Your_Products_First" = "حدد منتجاتك أولاً 👆🏼";
+"Continue_Order" = "إستكمال الطلب";
+"Total_CartActionView_Price" = "المجموع";
+
+//MARK: - NormalOrderSummaryViewController.xib -
+"Confirm_Normal_Order_Button_Title" = "تأكيد الطلب";
+"Normal_Order_Summary_Products_Title" = "تفاصيل الطلب:";
+
+//MARK: - NormalOrderSummaryViewController.swift -
+"Order_Summary_title" = "ملخص الطلب";
+
+//MARK: - NormalOrderReceiveView.xib -
+"Normal_Order_Receive_Details_View_Title" = "إستلام الطلب:";
+"Delivery_To_Client_Location_title" = "موقع التوصيل";
+"Delivery_To_Client_Location_placeholder" = "يرجي إدخال موقع التوصيل";
+"Delivery_By_Delegate" = "مندوب توصيل";
+"Delivery_From_Branch" = "إستلام من الفرع";
+
+//MARK: - NormalOrderSummaryViewModel.swift -
+"Order_value_price_title" = "قيمة الطلب";
+
+//MARK: - MyOrdersViewController.swift -
+"MyOrders_Segmented_title" = "طلباتي";
+"MySpecialOrders_Segmented_title" = "طلبات خاصة";
+"waiting_approve_orders_Segmented_title" = "انتظار الموافقة";
+"current_orders_Segmented_title" = "الطلبات الحالية";
+"finished_orders_Segmented_title" = "الطلبات المنتهية";
+"Classification" = "التصنيف";
+"Package :-" = "نوع الباقة :-";
+"Bus capacity :-" = "سعة الباص :-";
+"Rating :-" = "التقييم";
+"Sort" = "الترتيب";
+"Please select at least one choose" = "الرجاء تحديد اختيار واحد على الأقل";
+"Bus information :" = "معلومات عن الحافلة :";
+"Users ratings and comments :" = "تقييمات وتعليقات المستخدمين :";
+"Move to subscriptions" = "إنتقل للإشتراكات";
+"Reset" = "إعادة ظبط";
+"Confirm" = "تأكيد";
+
+"& above" = "& فأكثر";
+"Done" = "تم";
+"Next" = "التالي";
+"Continue" = "متابعة";
+"Home" = "الرئيسية";
+"Orders" = "الطلبات";
+"Notifications" = "الإشعارات";
+"Chats" = "المحادثات";
+"Chat" = "المحادثة";
+"My Account" = "حسابي";
+"All rights reserved to LOH application" = "جميع الحقوق محفوظة لتطبيق LOH";
+
+"Please enter account data to log in" = "الرجاء إدخال بيانات الحساب لتسجيل الدخول";
+"Enter coupon code" = "ادخل الكود";
+"OR" = "أو";
+"Please enter your discount coupon code" = "الرجاء إدخال قسيمة الخصم الخاصة بك";
+"Scan QR code" = "مسح رمز الاستجابة السريعة";
+"Confirm Order" = "تأكيد الطلب";
+"Login" = "تسجيل الدخول";
+"Please select your location and school frist " = "الرجاء اختيار موقعك والمدرسة أولا";
+"Phone" = "رقم الجوال";
+"Password" = "كلمة المرور";
+"Did you forget your password ?" = "هل نسيت كلمة المرور ؟";
+"Offers" = "العروض";
+"transactions" = "المعاملات";
+"settlement" = "التسوية";
+"Notifications" = "الإشعارات";
+"Log out" = "تسجيل الخروج";
+"... search for the display name" = "... ابحث عن اسم العرض";
+"Offer name :" = "إسم العرض :";
+"The number of purchases :" = "عدد مرات الشراء :";
+"stay :" = "متبقي : ";
+"sort by" = "ترتيب حسب";
+"ascending" = "تصاعدي";
+"descending" = "تنازلي";
+": until" = ": حتي";
+": from" = ": من";
+"details" = "التفاصيل";
+"… Search by customer name, mobile number, or purchase code" = "… ابحث باسم العميل او رقم الجوال او كود الشراء";
+"Display sales" = "مبيعات العرض";
+":customer name" = ":اسم العميل";
+"Trip rate" = "تقييم الرحلة";
+"Write your comment" = "إضافة تعليق";
+"Please enter your comment" = "من فضلك اكتب تعليقك هنا";
+"Sign in" = "تسجيل دخول";
+"Child is not in morning trip" = "الطفل ليس في رحلة الصباح";
+"Child is not in evening trip" = "الطفل ليس في رحلة المساء";
+":phone" = ": الجوال";
+"There is no trip yet" = "لا يوجد رحله حتى الان";
+": the use" = ": الإستخدام";
+"Offer sales details" = "تفاصيل مبيعات العرض";
+"Quantity" = "الكمية";
+"offer price" = "سعر العرض";
+"purchase code" = "كود الشراء";
+"percentage" = "نسبة";
+"Display total sales" = "إجمالي مبيعات العرض";
+"total percentage" = "إجمالي نسبة";
+"There are no offers available now" = "لا توجد عروض متاحه الآن";
+"Please enter the start date of the offer" = "الرجاء إدخال تاريخ بداية العرض";
+"Please enter the end date of the offer" = "الرجاء إدخال تاريخ نهاية العرض";
+"Confirm" = "تأكيد";
+"Usage :" = "الإستخدام :";
+"Phone :" = "رقم الجوال :";
+"Customer name :" = "إسم العميل :";
+"The end date must be greater than the start date" = "يجب ان يكون تاريخ النهايه اكبر من تاريخ البدايه";
+"Offer start date" = "تاريخ بداية العروض";
+"Offers end date" = "تاريخ نهاية العروض";
+"Total sales of offers" = "إجمالي مبيعات العروض";
+"Number of coupons available:" = "عدد الكوبونات المتاحة :";
+"out of" = "من";
+"Coupons available" = "الكوبونات المتاحة";
+"Pull to refresh" = "اسحب للتحديث";
+"dues" = "مستحق";
+"Financial transactions" = "المعاملات المالية";
+"Total marketer percentage" = "إجمالي نسبة المسوق";
+"marketer's percentage" = "نسبة المسوق";
+"No Data Found" = "لا توجد بيانات متاحه";
+"sent delivered handed" = "تم التسليم";
+"Delivered" = "تسليم";
+"SR" = "ر.س";
+"Please select date" = "يرجى اختيار تاريخ او مجموعه من التواريخ";
+"Total sales :" = "إجمالى المبيعات :";
+"total LOH percentage" = "إجمالي نسبة LOH :";
+"Please check your connection" = "يرجى التحقق من اتصالك";
+"Total marketer percentage" = ":إجمالي  نسبة المسوق";
+"Filter by the date the offer was added" = "تصفية حسب تاريخ إضافة العرض";
+"Delivery code" = "كود التسليم";
+"Print reports" = "طباعة التقارير";
+"Coupon name :" = "إسم الكوبون :";
+"Number of purchases :" = "عدد مرات الشراء :";
+"Total :" = "الإجمالى :";
+"Number of settlements :" = "عدد التسويات :";
+"Total settlements :" = "اجمالى التسويات :";
+"Select" = "تأكيد";
+"From" = "من";
+"Please select start and end date from her" = "حدد تاريخ البداية والنهاية من هنا";
+"No child data to show" = "لا يوجد معلومات لهذا الطفل لعرضها";
+"To" = "إلى";
+"Select date" = "حدد التاريخ";
+"Refresh" = "تحديث";
+"No Financial transactions found yet" = "لا يوجد معاملات ماليه حاليا";
+"Please choose the date for the financial transactions to appear" = "الرجاء اختيار التاريخ لظهور المعاملات المالية";
+"The date is invalid. The start date must be earlier than the end date" = "التاريخ غير صحيح يجب ان يكون تاريخ البدايه اقدم من تاريخ النهايه ";
+"Please select correct date" = "الرجاء إختيار تاريخ صحيح";
+"Coupon name" = "إسم الكوبون";
+"Number of purchases" = "عدد مرات الشراء";
+"Electronic payment tax" = "رسوم الدفع الإلكترونى";
+"Loh amount" = "مبلغ Loh";
+"Provider deserved amount" = "المبلغ المستحق لمقدم الخدمة";
+"Tax amount" = "مبلغ الضريبة";
+"Total price" = "المبلغ الكلى";
+"Report details" = "تفاصيل التقرير";
+"Payment tax" = "مبلغ الضريبة";
+"Commercial number" = "الرقم الضريبى";
+"Commercial number :" = "الرقم الضريبى :";
+"Please enter discount code" = "الرجاء إدخال كود الخصم";
+
+"Please enter password field." = "يرجى إدخال حقل كلمة المرور.";
+"Password is too short, it should be 6 characters at least." = "كلمة المرور قصيرة جدًا، يجب أن تكون على الأقل 6 أحرف.";
+"Please enter new password field." = "يرجى إدخال حقل كلمة المرور الجديدة.";
+"New password is too short, it should be 6 characters at least." = "كلمة المرور الجديدة قصيرة جدًا، يجب أن تكون على الأقل 6 أحرف.";
+"Please enter old password field." = "يرجى إدخال حقل كلمة المرور القديمة.";
+"Old password is too short, it should be 6 characters at least." = "كلمة المرور القديمة قصيرة جدًا، يجب أن تكون على الأقل 6 أحرف.";
+"Please enter confirm new password field." = "يرجى إدخال حقل تأكيد كلمة المرور الجديدة.";
+"Please enter confirm password field." = "يرجى إدخال حقل تأكيد كلمة المرور.";
+"Password should not contain spaces at the beginning or end." = "كلمة المرور يجب ألا تحتوي على مسافات في البداية أو النهاية.";
+"Passwords not match." = "كلمات المرور غير متطابقة.";
+"Please read and agree our terms and conditions first" = "يرجى قراءة والموافقة على الشروط والأحكام أولاً.";
+"Please enter password field." = "يرجى إدخال حقل كلمة المرور.";
+"Password is too short, it should be 6 characters at least." = "كلمة المرور قصيرة جدًا، يجب أن تكون على الأقل 6 أحرف.";
+"Please enter confirmation password" = "يرجى إدخال كلمة المرور التأكيدية.";
+"Confirm Password is too short, it should be 6 characters at least." = "كلمة المرور التأكيدية قصيرة جدًا، يجب أن تكون على الأقل 6 أحرف.";
+"Please enter new password field." = "يرجى إدخال حقل كلمة المرور الجديدة.";
+"New password is too short, it should be 6 characters at least." = "كلمة المرور الجديدة قصيرة جدًا، يجب أن تكون على الأقل 6 أحرف.";
+"Please enter old password field." = "يرجى إدخال حقل كلمة المرور القديمة.";
+"Old password is too short, it should be 6 characters at least." = "كلمة المرور القديمة قصيرة جدًا، يجب أن تكون على الأقل 6 أحرف.";
+"Please enter confirm new password field." = "يرجى إدخال حقل تأكيد كلمة المرور الجديدة.";
+"Passwords not match." = "كلمات المرور غير متطابقة.";
+"Please pick your profile picture." = "يرجى اختيار صورة الملف الشخصي.";
+"Please enter name." = "يرجى إدخال الاسم.";
+"Name is too short." = "الاسم قصير جدًا.";
+"Name is too long." = "الاسم طويل جدًا.";
+"Please enter email field." = "يرجى إدخال حقل البريد الإلكتروني.";
+"Please enter correct email address." = "يرجى إدخال عنوان بريد إلكتروني صحيح.";
+"Please enter your phone number." = "يرجى إدخال رقم هاتفك.";
+"Please select city." = "يرجى اختيار المدينة.";
+"Please select activity type." = "يرجى اختيار نوع النشاط.";
+"Please enter a description of the activity" = "يرجى إدخال وصف النشاط.";
+"Please enter verification code" = "يرجى إدخال رمز التحقق.";
+"Verification Code should be 4 digits." = "يجب أن يتكون رمز التحقق من 4 أرقام.";
+"Please enter the message title." = "يرجى إدخال عنوان الرسالة.";
+"Please enter the message text." = "يرجى إدخال نص الرسالة.";
+"Please enter the Properties" = "يرجى إدخال الخصائص.";
+"Please enter the Price" = "يرجى إدخال السعر.";
+"Please enter package name" = "يرجى إدخال اسم الحزمة.";
+"Please select the subcategory" = "يرجى اختيار الفئة الفرعية.";
+"Please enter bank account holder name" = "يرجى إدخال اسم صاحب الحساب البنكي.";
+"Please enter bank name" = "يرجى إدخال اسم البنك.";
+"Please select bank transfer image" = "يرجى اختيار صورة الحوالة البنكية.";
+"Please enter from bank name" = "يرجى إدخال اسم البنك المحول منه.";
+"Please enter bank account number" = "يرجى إدخال رقم الحساب البنكي.";
+"The bank account number must be at least 16 digits long" = "يجب أن يكون رقم الحساب البنكي مكونًا من 16 رقمًا على الأقل.";
+"Please enter the IBAN number" = "يرجى إدخال رقم الآيبان.";
+"Please enter a valid IBAN format consisting of 24 letters and numbers" = "يرجى إدخال صيغة آيبان صحيحة مكونة من 24 حرفًا ورقمًا.";
+"Please enter STCPAY details here" = "يرجى إدخال تفاصيل STCPAY هنا.";
+"Please specify location" = "يرجى تحديد الموقع.";
+"Please select feathers" = "يرجى اختيار المواصفات.";
+"Please enter cancel reason." = "يرجى إدخال سبب الإلغاء.";
+"Logout" = "تسجيل خروج";
+"SAR" = "ريال سعودى";
+"%" = "٪";
+"Trip information :" = "تفاصيل الرحلة :";
+"Please enter store Image" = "يرجى إدخال صورة المتجر.";
+"Please enter store name" = "يرجى إدخال اسم المتجر.";
+"Please enter Store description" = "يرجى إدخال وصف المتجر.";
+"Please enter Commercial register" = "يرجى إدخال السجل التجاري.";
+"Please enter National ID" = "يرجى إدخال رقم الهوية الوطنية.";
+"phone is too short, please enter correct phone number." = "رقم الهاتف قصير جدًا، يرجى إدخال رقم هاتف صحيح.";
+"Subscription and payment" = "الإشتراك والدفع";
+"Register" = "تسجيل جديد";
+"You should login first" = "يجب تسجيل الدخول اولا";
+"Are you sure you want to logout?" = "هل انت متأكد من تسجيل الخروج ؟";
+"Do you need to delete your account?" = "هل تريد حذف الحساب";
+"Cancel" = "إلغاء";
+"Main packages :" = " الباقات الأسياسية :";
+"Other packages :" = "الباقات الأخرى :";
+"Package features :" = "مميزات الباقة :";
+"Terms & Conditions :" = "الشروط والأحكام :";
+"Package Details" = "تفاصيل الباقة";
+" Details" = "تفاصيل";
+"Awfa offers" = "عروض أوفى";
+"Payment" = "الدفع";
+"Place Order" = "إتمام الطلب";
+"Service Fee :" = "رسوم الخدمة :";
+"Total Cost :" = "المبلغ الكلى :";
+"Value Added Tax :" = "القيمة المضافة :";
+"Order Summary" = "ملخص الطلب";
+"Continue to Payment" = "متابعة الدفع";
+"Forgot Password ?" = "نسيت كلمة المرور ؟";
+"Create account" = "إنشاء حساب";
+"Welcome please enter the required information" = "مرحبا بك قم بإدخال البيانات المطلوبة";
+"Please agree to our terms and conditions" = "يرجى الموافقة على الشروط والأحكام";
+"Please enter your city" = "يرجى ادخال المدينة";
+"Client name" = "اسم المستخدم";
+"E-mail" = "البريد الإلكترونى";
+"(Optional)" = "(إختيارى)";
+"City" = "المدينة";
+"Agree to" = "الموافقة على";
+"Terms and Conditions" = "الشروط والأحكام";
+"Do you have an account?" = "هل لديك حساب ؟";
+"Verification code" = "كود التحقق";
+"Active" = "تحقق";
+"Send" = "إرسال";
+"Enter your phone number" = "قم بإدخال رقم الجوال الخاص بك";
+"Forget password ?" = "نسيت كلمة المرور ؟";
+"We will send you instructions to reset your password." = "سنرسل لك تعليمات لإعادة تعيين كلمة السر الخاصة بك";
+"Enter a strong password to protect your information." = "قم بإدخال كلمة المرور قوية لحمايه البيانات";
+"Reset password" = "إعادة تعيين كلمة المرور";
+"Choose Source" = "اختر المصدر";
+"Gallery" = "المعرض";
+"Maximum" = "حد اقصى";
+"Camera" = "الكاميرا";
+"Cancel" = "إلغاء";
+"Canceled" = "ملغى";
+"Notes:" = "ملاحظات :";
+"Maximum Limit Reached" = "تم الوصول للحد الأقصى";
+"You have reached the maximum allowed: %d" = "لقد وصلت للحد الأقصى المسموح به: %d";
+"Photo" = "صورة";
+"Video" = "فيديو";
+"Order Date: " = "تاريخ الطلب :";
+"(Photo / Video)" = "(صورة / فيديو)";
+"Attach Device Photo" = "ارفق صورة الجهاز";
+"Capture Malfunction" = "تصوير العطل";
+"OK" = "حسناً";
+"Cost from Administration" = "التكلفة من الإدارة";
+"Accept" = "قبول";
+"Reject" = "رفض";
+"SAR" = "ريال";
+"Determine delivery location" = "تحديد موقع التوصيل";
+"Delivery location" = "موقع التوصيل";
+"Rejection Reason" = "سبب الرفض";
+"Confirm" = "تأكيد";
+"Search..." = "بحث...";
+"Search by %@" = "البحث باسم %@";
+"Please select an item" = "يرجى اختيار عنصر";
+"No reasons available" = "لا توجد أسباب متاحة";
+"Add a price offer" = "اضافة عرض سعر";
+"Completed Settlement" = "تسوية منتهية";
+
+
+
+
+
+
+//MARK: - AppDatePickerField.swift -
+"Select date" = "حدد التاريخ";
+"Select time" = "حدد الوقت";
+"Select date and time" = "حدد التاريخ والوقت";
+
+
+
+
+//MARK: - PriceOffersOrderDetailsView -
+
+"No details available" = "لا توجد تفاصيل متاحة";
+"Unable to load video" = "تعذر تحميل الفيديو";
+"Loading image..." = "جارٍ تحميل الصورة...";
+"Loading video..." = "جارٍ تحميل الفيديو...";
+"Failed to load image" = "فشل تحميل الصورة";
+"Failed to load video" = "فشل تحميل الفيديو";
+"Invalid video URL" = "رابط فيديو غير صالح";
+"Video is not playable" = "الفيديو غير قابل للتشغيل";
+"Invalid image URL" = "رابط صورة غير صالح";
+"Attach Transfer Image" = "ارفق صورة الحوالة";
+"Please select an image" = "الرجاء اختيار صورة";
+"Failed to process image" = "فشل معالجة الصورة";
+
+
+
+//MARK: - PriceOffersCardView.swift -
+"View Terms" = "الاطلاع على الشروط:";
+"Hide Terms" = "إخفاء الشروط:";
+
+
+//MARK: - CartDevicesDetailsCardView.swift -
+"Available now" = "متاح الان";
+
+//MARK: - ChangePasswordView.swift -
+"Current password" = "كلمة المرور الحالية";
+"New password" = "كلمة المرور الجديدة";
+"Confirm password" = "تأكيد كلمة المرور";
+"Change password" = "تغيير كلمة المرور";
+"Password must be at least 6 characters" = "يجب أن تكون كلمة المرور 6 أحرف على الأقل";
+"Password must not exceed 100 characters" = "يجب ألا تتجاوز كلمة المرور 100 حرف";
+"Current password is required" = "كلمة المرور الحالية مطلوبة";
+"New password is required" = "كلمة المرور الجديدة مطلوبة";
+"Password confirmation is required" = "تأكيد كلمة المرور مطلوب";
+"Passwords do not match" = "كلمات المرور غير متطابقة";
+"Confirm New Password" = "تأكيد كلمة المرور الجديدة";
+"Password must contain letters, numbers and symbols" = "يجب ان تحتوي كلمة المرور على حروف، أرقام ورموز";
+"Password changed successfully" = "تم تغيير كلمة المرور بنجاح";
+
+//MARK: - EditProfileView.swift -
+"Edit Personal Profile" = "تعديل الملف الشخصي";
+"Edit" = "تعديل";
+"Name must not exceed 50 characters" = "يجب ألا يتجاوز الاسم 50 حرفاً";
+"Name is required" = "الاسم مطلوب";
+
+//MARK: - DeleteAccountAlertView.swift -
+"Delete Account" = "حذف الحساب";
+"If you confirm, all your data will be deleted" = "إذا قمت بالتأكيد سيتم حذف جميع بياناتك";
+"Confirm Delete" = "تأكيد الحذف";
+
+//MARK: - ChangePhoneNewPhoneView.swift -
+"Please enter a valid phone number" = "يرجى إدخال رقم هاتف صحيح";
+"Please select country code" = "يرجى اختيار رمز البلد";
+"Unable to retrieve phone number" = "تعذر الحصول على رقم الهاتف";
+
+//MARK: - MoreVerificationCodeView.swift -
+"you can't resend code before" = "لا يمكنك إعادة إرسال الرمز قبل";
+
+//MARK: - PlaceholderView -
+"Coming Soon" = "قريباً";
+
+
+
+
+
+// MARK: - Contact Us
+"Contact Us" = "تواصل معنا";
+"Message title" = "عنوان الرسالة";
+"Message text" = "نص الرسالة";
+"Send" = "إرسال";
+"Name is required" = "الاسم مطلوب";
+"Phone number is required" = "رقم الجوال مطلوب";
+"Title is required" = "عنوان الرسالة مطلوب";
+"Message is required" = "نص الرسالة مطلوب";
+"Name must not exceed 50 characters" = "يجب ألا يتجاوز الاسم 50 حرفاً";
+"Title must not exceed 250 characters" = "يجب ألا يتجاوز العنوان 250 حرفاً";
+"Message must not exceed 250 characters" = "يجب ألا يتجاوز النص 250 حرفاً";
+
+// MARK: - Info Content
+"Loading..." = "جاري التحميل...";
+
+
+"Confirm" = "تأكيد";
+
+// MARK: - Logout Confirmation
+"Logout" = "تسجيل خروج";
+"Are you sure you want to logout?" = "هل انت متأكد من الخروج من الحساب";
+"Confirm Logout" = "تأكيد الخروج";
+"Go Back" = "تراجع";
+
+
+//MARK: - Notifications -
+"No notifications" = "لا توجد اشعارات";
+"Administration" = "الادارة";
+"Notification deleted" = "تم حذف الاشعار";
+"Request accepted" = "تم قبول الطلب";
+"Request rejected" = "تم رفض الطلب";
+
+//MARK: - Login Required -
+"Login Required" = "تسجيل الدخول مطلوب";
+"Please login first to use this feature" = "يرجى تسجيل الدخول أولاً لاستخدام هذه الميزة";
+"Please login to view your orders" = "يرجى تسجيل الدخول لعرض طلباتك";
+"Please login to access chat" = "يرجى تسجيل الدخول للوصول إلى المحادثات";
+"Please login to access your cart" = "يرجى تسجيل الدخول للوصول إلى سلة التسوق";
+"Please login to view notifications" = "يرجى تسجيل الدخول لعرض الإشعارات";
+"Please login to access this feature" = "يرجى تسجيل الدخول للوصول إلى هذه الميزة";
+"login" = "تسجيل الدخول";
+
+//MARK: - No Internet Alert -
+"No Internet Connection" = "لا يوجد اتصال بالإنترنت";
+"Please check your internet connection and try again" = "يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى";
+"Retry" = "إعادة المحاولة";
+
+//MARK: - IntroView / Onboarding -
+"Skip" = "تخطي";
+"Start Now" = "لنبدأ الآن";
+
+"Login successful" = "تم تسجيل الدخول بنجاح";
+
+//MARK: - LoginView -
+"Hello! Welcome back agian." = "مرحباً! أهلاً بعودتك مجدداً.";
+"Sign in and let us help you rent or list your car easily." = "سجّل دخولك ودعنا نساعدك في استئجار أو عرض سيارتك بسهولة.";
+"Login as visitor" = "الدخول كزائر";
+"Don't have an account?" = "ليس لديك حساب؟";
+"Create new account" = "إنشاء حساب جديد";
+
+"Rent Now" = "أجر الأن";
+
+//MARK: - PhoneTextView -
+"Phone" = "رقم الجوال";
+"Phone number" = "رقم الجوال";
+
+//MARK: - Phone Validation -
+"Please enter your phone number" = "يرجى إدخال رقم الجوال";
+"Please enter correct phone number" = "يرجى إدخال رقم جوال صحيح";
+"Please select your country code." = "يرجى اختيار رمز البلد";
+
+//MARK: - RegisterView -
+"Fuel type" = "نوع الوقود";
+"Hello! Let's get started." = "مرحباً! لنبدأ معاً.";
+"Create your account and let us help you rent or list your car easily." = "أنشئ حسابك ودعنا نساعدك في استئجار أو عرض سيارتك بسهولة.";
+"Let's begin your journey with" = "يلا نبدأ مشوارك مع";
+"\"rent now\"" = "\"أجّر الآن\"";
+"register_title" = "إنشاء حساب جديد";
+"register_subtitle" = "سواء تبي تستأجر سيارة أو تأجر سيارتك وتكسب، سجل حسابك بخطوات بسيطة.";
+"Full name" = "الاسم الكامل";
+"National ID" = "رقم الهوية الوطنية";
+"Country" = "الدولة";
+"Profile photo" = "صورة الملف الشخصي";
+"Remove photo" = "إزالة الصورة";
+"profile_photo_optional" = "الصورة الشخصية (اختياري)";
+"Password must be at least 6 characters" = "يجب أن تكون كلمة المرور 6 أحرف على الأقل";
+
+//MARK: - National ID Validation -
+"National ID is required" = "رقم الهوية الوطنية مطلوب";
+"National ID must be 10 digits" = "يجب أن يكون رقم الهوية 10 أرقام";
+"National ID must start with 1 or 2" = "يجب أن يبدأ رقم الهوية بـ 1 أو 2";
+"National ID must contain only numbers" = "يجب أن يحتوي رقم الهوية على أرقام فقط";
+
+//MARK: - Country Validation -
+"Please select country" = "يرجى اختيار الدولة";
+
+//MARK: - Registration Response -
+"Nafaz verification failed" = "فشل التحقق من نفاذ";
+
+//MARK: - ForgetPasswordView -
+"forget_password_title" = "نسيت كلمة المرور؟ ولا يهمك";
+"forget_password_subtitle" = "أدخل رقم جوالك وسنرسل لك كود تحقق لإعادة تعيين كلمة المرور.";
+"forget_password_button" = "إرسال كود التحقق";
+
+//MARK: - VerificationCodeView -
+"verification_code_title" = "أرسلنا لك كود التحقق";
+"verification_code_subtitle" = "دخل الكود اللي وصلك على جوالك عشان نكمّل التحقق ونغيّر كلمة المرور.";
+"verification_code_button" = "تأكيد التسجيل";
+"verification_timer_seconds" = "ثانية";
+"verification_resend_question" = "لم يصلك كود التحقق ؟";
+"verification_resend_action" = "إعادة الإرسال";
+"Please enter full code" = "يرجى إدخال الكود كاملاً";
+
+//MARK: - ResetPasswordView -
+"reset_password_title" = "غيّر كلمة المرور";
+"reset_password_subtitle" = "اختر كلمة مرور جديدة، وتأكد إنها قوية وسهلة تتذكّرها.";
+"reset_password_field" = "كلمة المرور";
+"reset_password_confirm_field" = "تأكيد كلمة المرور";
+"reset_password_hint" = "يجب ان تحتوي كلمة المرور على حروف، أرقام ورموز";
+"reset_password_button" = "تأكيد التغيير";
+"reset_password_success_title" = "تم تغيير كلمة المرور";
+"reset_password_success_subtitle" = "يرجى الانتظار وسيتم نقلك إلى صفحة تسجيل الدخول مرة أخرى";
+
+//MARK: - TabBar -
+"tab_home" = "الرئيسية";
+"tab_orders" = "الطلبات";
+"tab_add_ad" = "إضافة إعلان";
+"tab_wallet" = "المحفظة";
+"tab_more" = "المزيد";
+
+//MARK: - HomeView -
+"home_welcome_message" = "هلا والله! نورتنا من جديد";
+"home_select_location" = "اختر موقعك";
+"home_limited_offer" = "عرض لفترة محدودة";
+"home_special_deal" = "عرض خاص";
+"home_new_arrivals" = "وصل حديثاً";
+
+//MARK: - Search Results Screen -
+"all_subcategories" = "الكل";
+"search_placeholder" = "ابحث باسم السيارة...";
+"search_no_results" = "لا توجد سيارات";
+"per_day" = "في اليوم";
+
+
+//MARK: - Network Errors -
+"server_error_unable_to_process" = "خطأ في الخادم: تعذر معالجة الاستجابة. يرجى المحاولة مرة أخرى أو الاتصال بالدعم.";
+
+//MARK: - Notifications Screen -
+"notifications_title" = "الإشعارات";
+"notifications_delete_all" = "حذف الكل";
+"notifications_empty_title" = "لا توجد إشعارات";
+"notifications_empty_message" = "ليس لديك أي إشعارات حتى الآن";
+"notifications_delete_all_confirm_title" = "حذف جميع الإشعارات";
+"notifications_delete_all_confirm_message" = "هل أنت متأكد من حذف جميع الإشعارات؟ لا يمكن التراجع عن هذا الإجراء.";
+"notifications_delete_all_confirm_action" = "حذف الكل";
+"notifications_delete_single_confirm_title" = "حذف الإشعار";
+"notifications_delete_single_confirm_message" = "هل أنت متأكد من حذف هذا الإشعار؟";
+"delete" = "حذف";
+"cancel" = "إلغاء";
+"notifications_delete_all_success" = "تم حذف جميع الإشعارات بنجاح";
+"notifications_delete_single_success" = "تم حذف الإشعار بنجاح";
+"notification_time_just_now" = "الآن";
+"notification_time_minutes_ago" = "منذ %d دقيقة";
+"notification_time_hours_ago" = "منذ %d ساعة";
+"notification_time_days_ago" = "منذ %d يوم";
+"notification_time_weeks_ago" = "منذ %d أسبوع";
+"notification_time_months_ago" = "منذ %d شهر";
+
+// MARK: - AirportsSheet
+"airports_sheet_title" = "المطارات المتاحة في هذه المنطقة";
+"airports_empty_title" = "لا توجد مطارات";
+"airports_empty_message" = "لم يتم العثور على مطارات قريبة. جرب تحديد موقع مختلف على الخريطة.";
+"airports_determine_location" = "تحديد الموقع من الخريطة";
+"confirm" = "تأكيد";
+"airport_selection_required" = "يرجى تحديد مطار";
+"location_updated_successfully" = "تم تحديث الموقع بنجاح";
+"location_permission_denied" = "تم رفض إذن الموقع. يرجى تفعيله من الإعدادات.";
+"location_not_available" = "الموقع غير متاح";
+"location_update_failed" = "فشل تحديث الموقع";
+"unknown_error" = "حدث خطأ غير معروف";
+
+// MARK: - Filter Sheet
+"filter_title" = "التصفية بـ";
+"car_model" = "موديل السيارة";
+"types_and_models" = "الأنواع والموديلات";
+"select_all_models" = "تحديد جميع الموديلات";
+"select_all" = "تحديد الكل";
+"fuel_type" = "نوع الوقود";
+"city" = "المدينة";
+"cities" = "المدن";
+"select_all_cities" = "تحديد جميع المدن";
+"cost" = "التكلفة";
+"confirm" = "تأكيد";
+"selected" = "محدد";
+"all_selected" = "الكل محدد";
+"search_car_type" = "البحث باسم نوع السيارة";
+"search_city" = "البحث باسم المدينة";
+"additional_features" = "مميزات إضافية";
+"reset" = "إعادة ضبط";
+
+// MARK: - Advertisement Details Screen
+"ad_details_title" = "تفاصيل السيارة";
+"ad_details_location" = "موقع السيارة";
+"ad_details_car_details" = "تفاصيل السيارة";
+"ad_details_description" = "وصف السيارة";
+"ad_details_safety_instructions" = "إرشادات السلامة";
+"ad_details_provider" = "تفاصيل المعلن";
+"ad_details_ratings" = "التقييمات";
+"ad_details_no_ratings" = "لا توجد تقييمات بعد";
+"ad_details_similar_ads" = "إعلانات مشابهة";
+"ad_details_book_car" = "طلب السيارة";
+"ad_details_more" = "المزيد";
+"coming_soon" = "قريباً";
+"You have more kilometers than allowed." = "يوجد عليك عدد كيلومترات زائد عن الحد المسموح به .";
+"Current" = "حالى";
+// MARK: - Search Screen
+"search_title" = "البحث";
+"search_start_message" = "ابحث عن السيارة التي تريدها";
+"subcategory" = "الفئة الفرعية";
+
+// MARK: - Provider Profile Screen
+"provider_profile.title" = "ملف المعلن";
+"provider_profile.ads_section" = "الإعلانات الخاصة به";
+
+// MARK: - Add Advertisement Screen
+"add_ad.title" = "إضافة إعلان جديد";
+"add_ad.car_image" = "صورة السيارة";
+"add_ad.car_image_subtitle" = "يمكنك رفع صور بحد أقصى 3 صور";
+"add_ad.car_type" = "نوع السيارة";
+"add_ad.select_car_type" = "أختر نوع السيارة";
+"add_ad.car_model" = "موديل السيارة";
+"add_ad.select_car_model" = "أختر موديل السيارة";
+"add_ad.fuel_type" = "نوع الوقود";
+"add_ad.select_fuel_type" = "أختر نوع الوقود";
+"add_ad.main_category" = "القسم الرئيسي";
+"add_ad.select_main_category" = "أختر القسم الرئيسي";
+"add_ad.sub_category" = "القسم الفرعي";
+"add_ad.select_sub_category" = "أختر القسم الفرعي";
+"add_ad.city" = "المدينة";
+"add_ad.select_city" = "أختر المدينة";
+"add_ad.location" = "الموقع الجغرافي";
+"add_ad.select_location" = "حدد الموقع الجغرافي";
+"add_ad.price_per_day" = "السعر في اليوم";
+"add_ad.enter_price" = "ادخل السعر في اليوم";
+"add_ad.insurance_price" = "سعر التأمين";
+"add_ad.enter_insurance" = "ادخل سعر التأمين";
+"add_ad.description" = "وصف السيارة";
+"add_ad.enter_description" = "ادخل وصف السيارة";
+"add_ad.safety_instructions" = "إرشادات السلامة";
+"add_ad.enter_safety_instructions" = "ادخل إرشادات السلامة";
+"add_ad.additional_services" = "الخدمات الإضافية المتاحة";
+"add_ad.confirm" = "تأكيد الإضافة";
+"add_ad.success_title" = "تمت الإضافة بنجاح";
+"add_ad.success_subtitle" = "تم إضافة إعلانك بنجاح";
+"add_ad.min_km" = "الحد الأدنى للكيلومترات";
+"add_ad.max_km" = "الحد الأقصى للكيلومترات";
+"add_ad.extra_km_price" = "سعر الكيلومتر الإضافي";
+"add_ad.delivery_enabled" = "التوصيل لموقع المستأجر";
+"add_ad.receive_enabled" = "الاستلام من موقع المستأجر";
+
+"You can upload up to %d photos" = "يمكنك رفع صور بحد أقصي %d صور";
+"You can upload up to %d videos" = "يمكنك رفع فيديو بحد أقصي %d فيديو";
+"You can upload up to %d photos/videos" = "يمكنك رفع صور أو فيديو بحد أقصي %d";
+
+"day" = "يوم";
+
+// MARK: - Create Order Screen
+"Please fill in the following data" = "يُرجى ملئ البيانات الآتية";
+"Insurance amount" = "مبلغ التأمين";
+"Rental date" = "تاريخ الإيجار";
+"Booking time" = "وقت الحجز";
+"Price per day" = "سعر اليوم";
+"Number of rental days" = "عدد أيام التأجير";
+"Return pickup price" = "سعر استلام السيارة من موقع العميل";
+"Discount amount" = "مبلغ الخصم";
+"Application fees amount" = "قيمة رسوم التطبيق";
+"Total before VAT" = "الإجمالي قبل الضريبة";
+"VAT percentage" = "نسبة الضريبة";
+"VAT value" = "قيمة الضريبة";
+"Final total" = "الإجمالي النهائي";
+"Rental start time" = "وقت بداية الحجز";
+"Number of days" = "عدد الأيام";
+"Rental end date" = "تاريخ نهاية الإيجار";
+"Rental start date" = "تاريخ بداية الإيجار";
+"Select rental start date" = "حدد تاريخ بداية الإيجار";
+"Select rental end date" = "حدد تاريخ نهاية الإيجار";
+"Select payment method" = "حدد طريقة الدفع";
+"Additional features" = "الخدمات الإضافية";
+"Delivery method" = "طريقة الاستلام من المؤجر";
+"Pickup from location" = "الاستلام من المؤجر";
+"Delivery" = "التوصيل";
+"Delivery location" = "موقع التوصيل";
+"Select delivery location" = "حدد موقع التوصيل";
+"Notes" = "الملاحظات";
+"Enter your notes here" = "ادخل الملاحظات هنا";
+"Agree to cancellation and delay terms" = "الموافقة على شروط الإلغاء والتأخير";
+"Rental price" = "سعر الإيجار";
+"Insurance" = "مبلغ التأمين";
+"Tax" = "الضريبة";
+"Total" = "الإجمالي";
+"Proceed" = "إجراء";
+"Book Car" = "طلب السيارة";
+"Delivery cost" = "قيمة التوصيل";
+"pickup from lessor cost" = "سعر الاستلام من المؤجر";
+"Features cost" = "قيمة الخدمات الإضافية";
+"Order placed successfully" = "تم إرسال طلبك بنجاح";
+"Please wait while we redirect you" = "يرجى الانتظار...";
+"Please select rental start date" = "يرجى اختيار تاريخ بداية الإيجار";
+"Please select rental end date" = "يرجى اختيار تاريخ نهاية الإيجار";
+"Please select rental start time" = "يرجى اختيار وقت بداية الحجز";
+"Please enter number of days" = "يرجى إدخال عدد الأيام";
+"Please select payment method" = "يرجى اختيار طريقة الدفع";
+"Please select delivery location" = "يرجى تحديد موقع التوصيل";
+"Please select return pickup location" = "يُرجى تحديد موقع التسليم للمؤجر";
+"Return method to lessor" = "طريقة التسليم للمؤجر";
+"Return to lessor" = "التسليم للمؤجر";
+"Return pickup location" = "موقع التسليم للمؤجر";
+"Select return pickup location" = "حدد موقع التسليم للمؤجر";
+"Delivery notes" = "ملاحظات التوصيل";
+"Return notes" = "ملاحظات التسليم";
+"Please agree to cancellation and delay terms" = "يرجى الموافقة على شروط الإلغاء والتأخير";
+
+// MARK: - Wallet & Packages
+"Wallet" = "المحفظة";
+"No active subscription" = "لا يوجد اشتراك نشط حالياً";
+"Subscribe to a package" = "الاشتراك في باقة";
+"Packages" = "الباقات";
+"Please choose from available packages" = "اختر الباقة المناسبة لك :";
+"Subscribe now" = "أشترك الآن";
+"Renew subscription" = "تجديد الاشتراك";
+"Cancel subscription" = "إلغاء الاشتراك";
+"Subscription cancelled successfully" = "تم إلغاء الاشتراك بنجاح";
+"Free operations count" = "عدد العمليات المجانية";
+"Discount percentage" = "نسبة الخصم";
+"Description" = "الوصف";
+"Actual package description" = "وصف الباقة الحقيقي :";
+"Number of delivery times" = "عدد مرات التوصيل";
+"Number of free delivery times" = "عدد مرات التوصيل المجانية";
+"Remaining free delivery times" = "عدد مرات التوصيل المجانية المتبقية";
+"months" = "شهور";
+"1 month" = "شهر واحد";
+"%d months" = "%d أشهر";
+"days" = "أيام";
+"Are you sure you want to cancel?" = "هل أنت متأكد من إلغاء الاشتراك؟";
+"Confirm cancel subscription" = "تأكيد الإلغاء الاشتراك فى باقة";
+"This action cannot be undone" = "يرُجي العلم ان هذه لا يمكن الرجوع عنها";
+"Confirm cancellation" = "تأكيد الإلغاء";
+"Subscription successful" = "تم الاشتراك بنجاح";
+"Cancel" = "إلغاء";
+"Financial Transactions" = "المعاملات المالية";
+"Change phone number" = "تغيير رقم الجوال";
+// MARK: - Orders
+"New Orders" = "طلبات جديدة";
+"Current Orders" = "طلبات حالية";
+"Ended Orders" = "طلبات منتهية";
+"For the renter" = "المؤجر";
+"No orders available" = "لا توجد طلبات";
+"Order Details" = "تفاصيل الطلب";
+"Car Data" = "بيانات السيارة";
+"Start Date" = "تاريخ الإيجار";
+"End Date" = "تاريخ النهاية";
+"Booking Time" = "وقت الحجز";
+"Number of Days" = "عدد الأيام";
+"Min Kilometers" = "الحد الأدنى للكيلومترات";
+"Max Kilometers" = "الحد الأقصى للكيلومترات";
+"Extra Kilometer Price" = "سعر الكيلومتر الإضافي";
+"Insurance Price" = "سعر التأمين";
+"Car Image" = "صورة السيارة";
+"Price Per Day" = "السعر في اليوم";
+"Enter price per day" = "ادخل السعر في اليوم";
+"Enter insurance price" = "ادخل سعر التأمين";
+"Car Description" = "وصف السيارة";
+"Enter car description" = "ادخل وصف السيارة";
+"Minimum Kilometers" = "الحد الأدنى للكيلومترات";
+"Maximum Kilometers" = "الحد الأقصى للكيلومترات";
+"Available Additional Services" = "الخدمات الإضافية المتاحة";
+"km" = "كيلومتر";
+"SAR" = "ر.س";
+"Delivery Data" = "بيانات الاستلام";
+"Delivery Method" = "طريقة الاستلام";
+"Delivery Location" = "موقع التوصيل";
+"Return Method" = "طريقة التسليم";
+"Return Location" = "موقع التسليم";
+"Notes" = "ملاحظات";
+"Payment" = "الدفع";
+"Payment Method" = "طريقة الدفع";
+"Rent Price" = "سعر الايجار";
+"Delivery Price" = "سعر التوصيل";
+"Tax" = "ضريبة";
+"Total" = "الاجمالي";
+"Handover Data" = "صورة عداد السيارة";
+"Return Data" = "بيانات التسليم";
+"Odometer Reading" = "قراءة العداد";
+"Extra Kilometers" = "عدد الكيلومترات الزائدة";
+"Price per Kilometer" = "سعر الكيلومتر";
+"Cancel Order" = "إلغاء الطلب";
+"Pay" = "الدفع";
+"Payment Successful" = "تمت عملية الدفع بنجاح";
+"Electronic Payment" = "الدفع الإلكتروني";
+"Delivered" = "تم التسليم";
+"Received" = "تم الاستلام";
+"Rate Car" = "تقييم السيارة";
+
+// MARK: - More Screen
+"Personal Profile" = "الملف الشخصي";
+"Settings" = "الاعدادات";
+"Language" = "اللغة";
+"Privacy Policy" = "سياسة الخصوصية";
+"Terms and Conditions" = "الشروط والأحكام";
+"My Ads" = "إعلاناتي";
+"Customer Orders" = "طلبات العملاء";
+"My Ratings" = "تقييماتي";
+"About Rent Now" = "عن آجر الآن";
+"How the App Works" = "كيفية عمل التطبيق";
+"Cancellation and Delay Terms" = "شروط الإلغاء والتأخير";
+"There are no Cancellation and Delay Terms" = "لا توجد شروط إلغاء وتأخير";
+"Complaints and Suggestions" = "الشكاوى والمقترحات";
+"Reports" = "البلاغات";
+
+// MARK: - Settings Screen
+"Edit Profile" = "تعديل الملف الشخصي";
+
+// MARK: - Personal Profile Screen
+"Profile Picture" = "الصورة الشخصية";
+"Full Name" = "الاسم بالكامل";
+"Phone Number" = "رقم الجوال";
+"Email" = "البريد الإلكتروني";
+"City" = "المدينة";
+
+// MARK: - Change Phone Number Flow
+"To change your phone number, please enter the current password" = "لتغيير رقم جوالك، يرجى إدخال كلمة المرور الحالية";
+"Current Password" = "كلمة المرور الحالية";
+"Next" = "التالي";
+"Please enter the new phone number to send verification code to verify your identity" = "يرجى إدخال رقم الجوال الجديد لإرسال رمز التحقق للتأكد من هويتك";
+"New Phone Number" = "رقم الجوال الجديد";
+"Enter the code sent to your phone to verify your identity and change the phone number" = "أدخل الرمز المرسل إلى جوالك للتحقق من هويتك وتغيير رقم الجوال";
+"Phone number changed successfully" = "تم تغيير رقم الجوال بنجاح";
+
+// MARK: - Edit Profile Screen
+"Full Name is required" = "الاسم بالكامل مطلوب";
+"Country is required" = "الدولة مطلوبة";
+"City is required" = "المدينة مطلوبة";
+"Profile updated successfully" = "تم تحديث الملف الشخصي بنجاح";
+
+// MARK: - Odometer Capture
+"Odometer Photo" = "صورة عداد المسافات";
+"Odometer Reading" = "قراءة عداد المسافات";
+
+// MARK: - Rating
+
+"Welcome back!" = "هلا والله! نورتنا من جديد";
+"You are subscribed to" = "انت الآن مشترك في";
+"Gold Package" = "الباقة الذهبية";
+
+// MARK: - My Ads Screen
+"Under Review" = "قيد المراجعة";
+"Rejected" = "مرفوض";
+"No ads available" = "لا توجد إعلانات";
+
+// MARK: - Customer Orders Screen
+"Renter" = "المستأجر";
+
+// MARK: - Customer Order Details Screen
+"The Lessor" = "المؤجر";
+"Prepared" = "تم التجهيز";
+"Confirm Delivery" = "تأكيد التسليم";
+"Confirm Return" = "تأكيد الاستلام";
+
+// MARK: - My Ad Details Screen
+"Other Details" = "تفاصيل أخري";
+"Delivery to renter location" = "التوصيل لموقع المستأجر";
+"Pickup from owner location" = "الاستلام من موقع المالك";
+"Additional Car Services" = "خدمات السيارة الإضافية";
+"Kilometer Calculation Service Details" = "تفاصيل خدمة احتساب الكيلومترات";
+"Delete Ad" = "حذف الإعلان";
+"Please note that this cannot be undone" = "يُرجى العلم ان هذه لا يمكن الرجوع عنها";
+
+// MARK: - Edit Ad Screen
+"Edit Ad Data" = "تعديل بيانات الإعلان";
+"Confirm Edits" = "تأكيد التعديلات";
+"Delivery to Renter" = "التوصيل إلى المستأجر";
+"Pickup from Owner Location" = "الاستلام من موقع المؤجر";
+"Delivery method" = "طريقة الاستلام من المؤجر";
+"Choose from the following methods" = "اختر من الطرق الآتية";
+"Ad updated successfully" = "تم تحديث الإعلان بنجاح";
+
+// MARK: - Ad Status & Rejection
+"Ad Status" = "حالة الإعلان";
+"Ad Active" = "مفعل";
+"Ad Inactive" = "معطل";
+"Rejection Reason" = "سبب الرفض";
+"Edit Ad" = "تعديل الإعلان";
+
+// MARK: - My Ratings Screen
+"Rating" = "التقييم";
+
+// MARK: - All Ratings Screen
+"Ratings" = "التقييمات";
+"No ratings yet" = "لا توجد تقييمات حتى الآن";
+
+// MARK: - Contact Us Screen
+"Message Text" = "نص الرسالة";
+"Enter message text" = "ادخل نص الرسالة";
+"Confirm Send" = "تأكيد الإرسال";
+"You can contact us through" = "يمكنكم التواصل معنا عن طريق";
+"Message sent successfully" = "تم إرسال الرسالة بنجاح";
+"Your message has been sent successfully" = "تم إرسال رسالتك بنجاح";
+
+// MARK: - Complaints and Suggestions Screen
+"Create New Complaint" = "عمل شكوى جديدة";
+"Complaint Title" = "عنوان الشكوى";
+"Enter complaint title" = "ادخل عنوان الشكوى";
+"Complaint Text" = "نص الشكوى";
+"Enter complaint text" = "ادخل نص الشكوى";
+"Attach Image" = "إرفاق صورة";
+"Complaint Date" = "تاريخ الشكوى";
+"Order Number" = "رقم الطلب";
+"Order Date" = "تاريخ الطلب";
+"Responded" = "تم الرد";
+"No complaints yet" = "لا توجد شكاوى حتى الآن";
+"Complaint sent successfully" = "تم إرسال الشكوى بنجاح";
+"Your complaint has been sent successfully" = "تم إرسال شكواك بنجاح";
+"Complaint Details" = "تفاصيل الشكوى";
+"Complaint Image" = "صورة الشكوى";
+"Admin Response" = "رد الإدارة";
+
+//MARK: - Reports -
+"Report" = "البلاغ";
+"Report Date" = "تاريخ البلاغ";
+"Incident Location" = "الموقع الجغرافي الخاص بالحادثة";
+"Add New Report" = "إضافة بلاغ جديد";
+"Report Details" = "تفاصيل البلاغ";
+"Incident Date" = "تاريخ الحادث";
+"Incident Time" = "وقت الحادث";
+"Issuing Authority" = "الجهة الصدر منها التقرير";
+"The Report" = "التقرير";
+"Select Incident Date" = "حدد تاريخ الحادث";
+"Select Incident Time" = "حدد وقت الحادث";
+"Select Incident Location" = "حدد موقع الحادث";
+"Enter Issuing Authority" = "ادخل اسم الجهة الصدر منها التقرير";
+"Attach Report" = "إرفاق التقرير";
+"No reports yet" = "لا توجد بلاغات حتى الآن";
+"Report Incident" = "الإبلاغ عن حادث";
+"Report sent successfully" = "تم إرسال البلاغ بنجاح";
+"Your report has been sent successfully" = "تم إرسال البلاغ بنجاح";
+
+// MARK: - Financial Transactions
+"Financial Transactions" = "المعاملات المالية";
+"Outstanding" = "مستحقة";
+"New Settlement" = "تسوية جديدة";
+"Completed Settlement" = "تسوية منتهية";
+"Total Orders" = "إجمالي الطلبات";
+"Total Due Value" = "إجمالي القيمة المستحقة";
+"Total Commission" = "إجمالي العمولة";
+"Total VAT" = "إجمالي القيمة المضافة";
+"Total" = "الإجمالي";
+"Settlement" = "تسوية";
+"Order Value" = "قيمة الطلب";
+"App commission" = "عموله التطبيق";
+"Total commission discount" = "اجمالى قيمة الخصم";
+"Commission discount" = "قيمة الخصم";
+"VAT" = "القيمة المضافة";
+"Order Number" = "رقم الطلب";
+"Bank Account Details" = "بيانات الحساب البنكي";
+"Bank Name" = "اسم البنك";
+"Account Number" = "رقم الحساب";
+"Account Holder Name" = "اسم صاحب الحساب";
+"IBAN Number" = "رقم الايبان";
+"Confirm Send" = "تأكيد الإرسال";
+"Settlement request sent successfully" = "تم إرسال طلب التسوية بنجاح";
+"Settlement Details" = "تفاصيل التسوية";
+"Pending approval" = "في انتظار الموافقة";
+"Approved" = "تمت الموافقة";
+"Rejected" = "تم الرفض";
+"Bank Transfer" = "الحوالة البنكية";
+"Rejection Reason" = "سبب الرفض";
+"Orders" = "الطلبات";
+"No orders available" = "لا توجد طلبات متاحة";
+"This field is required" = "هذا الحقل مطلوب";
+"Account number must be 10-15 digits" = "رقم الحساب يجب أن يكون من 10 إلى 15 رقم";
+"IBAN must be 2 letters followed by 22 numbers" = "رقم الآيبان يجب أن يكون حرفين متبوعين بـ 22 رقم";
+"At least one image is required" = "مطلوب صورة واحدة على الأقل";
+"Please select a rating" = "يرجى اختيار تقييم أولاً";
+
+// MARK: - Nafath Verification
+"Authenticating via Nafath" = "جاري التوثيق عبر نفاذ";
+"Please wait until authentication is completed" = "يُرجي الانتظار لحين انتهاء التوثيق";
+"Authentication Successful" = "تم التوثيق بنجاح";
+"Please wait, you will be redirected to the home page" = "يُرجي الانتظار وسيتم نقلك إلى صفحة الصفحة الرئيسية";
+
+// MARK: - Location Picker
+"Current location :" = "الموقع الحالي :";
+"Try collect location ..." = "جاري تحديد الموقع ...";
+
+// MARK: - My Wallet
+"My Wallet" = "محفظتي";
+"Current Balance" = "الرصيد الحالي";
+"Recharge" = "شحن";
+"Withdraw" = "سحب";
+"Recharge Balance" = "شحن الرصيد";
+"Withdraw Balance" = "سحب الرصيد";
+"Enter amount" = "أدخل المبلغ";
+"IBAN" = "رقم الآيبان";
+"Account Name" = "اسم الحساب";
+"Please enter a valid amount" = "الرجاء إدخال مبلغ صحيح";
+"Amount exceeds your balance" = "المبلغ أكبر من رصيدك";
+"This field is required" = "هذا الحقل مطلوب";
+"Balance recharged successfully" = "تم شحن الرصيد بنجاح";
+"Withdraw request submitted successfully" = "تم إرسال طلب السحب بنجاح";
+
+// MARK: - In-App Payment
+"Try Again" = "حاول مرة أخرى";
+"Checking payment status..." = "جارٍ التحقق من حالة الدفع...";
+"Unable to check payment status. Retrying..." = "تعذر التحقق من حالة الدفع. جارٍ إعادة المحاولة...";
+"Unable to load payment page" = "تعذر تحميل صفحة الدفع";
+"Invalid payment response" = "استجابة الدفع غير صالحة";
+"Payment failed" = "فشلت عملية الدفع";
+"Payment canceled" = "تم إلغاء عملية الدفع";
+"Payment expired" = "انتهت صلاحية عملية الدفع";
+
+// MARK: - Booking Payment Options
+"%d payments × %@ %@" = "%d دفعات × %@ %@";
+"Updating payment options..." = "جارٍ تحديث خيارات الدفع...";
+"No payment methods are currently available." = "لا توجد طرق دفع متاحة حاليًا.";
+"This payment method is currently unavailable." = "طريقة الدفع هذه غير متاحة حاليًا.";
+"Unable to update payment options. Please try again." = "تعذر تحديث خيارات الدفع. يرجى المحاولة مرة أخرى.";
+"Your selected payment method is no longer available. Please choose another method." = "طريقة الدفع المختارة لم تعد متاحة. يرجى اختيار طريقة أخرى.";
+"Please wait for updated payment options before booking." = "يرجى انتظار تحديث خيارات الدفع قبل الحجز.";
+"Unable to create order. Please try again." = "تعذر إنشاء الطلب. يرجى المحاولة مرة أخرى.";
+
+// MARK: - Order Payment Details
+"Change payment method" = "تغيير طريقة الدفع";
+"Payment status" = "حالة الدفع";
+"Unpaid" = "غير مدفوع";
+"Paid" = "مدفوع";
+"Awaiting payment confirmation" = "بانتظار تأكيد الدفع";
+"Payment under review" = "الدفع قيد المراجعة";
+"Refunded" = "مسترد";
+"Payment status unavailable" = "حالة الدفع غير متاحة";
+"Updating payment method..." = "جارٍ تحديث طريقة الدفع...";
+"Payment method updated" = "تم تحديث طريقة الدفع";
+"Unable to load payment methods. Please try again." = "تعذر تحميل طرق الدفع. يرجى المحاولة مرة أخرى.";
+"Unable to update payment method. Please refresh the order and try again." = "تعذر تحديث طريقة الدفع. يرجى تحديث الطلب والمحاولة مرة أخرى.";
+
+"Complete the booking details above to choose a payment method." = "أكمل بيانات الحجز أعلاه لاختيار طريقة الدفع.";
+
+// Tabby checkout
+"Tabby" = "تابي";
+"Tabby could not approve this payment. Please choose another payment method." = "لم تتمكن تابي من الموافقة على الدفع. يرجى اختيار طريقة دفع أخرى.";
+"Unable to start Tabby checkout. Please refresh the order and try again." = "تعذر بدء الدفع عبر تابي. يرجى تحديث الطلب والمحاولة مرة أخرى.";
+"Payment is still being verified. Check the order status before trying again." = "جارٍ التحقق من الدفع. يرجى مراجعة حالة الطلب قبل المحاولة مرة أخرى.";
+"Tabby checkout was canceled. You can try again from the order." = "تم إلغاء الدفع عبر تابي. يمكنك المحاولة مرة أخرى من الطلب.";
+"Tabby session expired. Please try again to start a new session." = "انتهت صلاحية جلسة تابي. يرجى المحاولة مرة أخرى لبدء جلسة جديدة.";
+"This payment has been refunded." = "تم استرداد هذه الدفعة.";
+
+"Please check the booking dates and payment method." = "يرجى مراجعة تواريخ الحجز وطريقة الدفع.";
+
+"Tamara could not approve this payment. Please choose another payment method." = "لم تتمكن تمارا من الموافقة على هذه العملية. الرجاء اختيار طريقة دفع أخرى.";
+
+"Unable to start Tamara checkout. Please refresh the order and try again." = "تعذر بدء الدفع عبر تمارا. يرجى تحديث الطلب والمحاولة مرة أخرى.";
+
+"Your payment is under review." = "عملية الدفع قيد المراجعة.";
+
+"Tamara" = "تمارا";
+
+"Unable to load Tamara installments." = "تعذر تحميل تفاصيل أقساط تمارا.";
+
+"Learn more about Tamara installments" = "معرفة المزيد عن أقساط تمارا";
+
+"Payment is still pending. Please check your wallet later." = "عملية الدفع لا تزال قيد الانتظار. يرجى مراجعة محفظتك لاحقاً.";
+
+"Online" = "أونلاين";
+"Pay the full amount" = "ادفع كامل المبلغ";
+"Mada, Visa, Mastercard and Apple Pay" = "مدى وفيزا وماستركارد وApple Pay";
+"Pay %@ SAR" = "ادفع %@ ر.س";
+"Continue with Tabby" = "المتابعة مع تابي";
+"Continue with Tamara" = "المتابعة مع تمارا";
+"Secure payment via Moyasar" = "دفع آمن عبر ميسّر";
+
+"You aborted the payment. Please retry or choose another payment method." = "لقد ألغيت الدفعة. فضلاً حاول مجددًا أو اختر طريقة دفع أخرى.";
+
+"Payment is still pending. Please check your subscription later." = "عملية الدفع لا تزال قيد الانتظار. يرجى مراجعة اشتراكك لاحقاً.";
+
+"Confirming payment..." = "جاري تأكيد الدفع...";
+"Payment is unavailable. Please contact support." = "الدفع غير متاح. يرجى التواصل مع الدعم.";
+"Payment received, under review. Support will contact you." = "تم استلام الدفع وهو قيد المراجعة. سيتواصل معك فريق الدعم.";
+
+"Mada or credit card" = "بطاقة مدى أو ائتمانية";
+"Mada, Visa and Mastercard" = "مدى · فيزا · ماستركارد";
+"Pay securely with Apple Pay" = "ادفع بأمان باستخدام Apple Pay";
+"Apple Pay is currently unavailable." = "Apple Pay غير متاح حالياً.";
+
+// Booking checkout
+"checkout_payment_details" = "تفاصيل الدفع";
+"checkout_rental" = "الإيجار";
+"checkout_collapse_payment" = "طي طرق الدفع";
+"checkout_expand_payment" = "عرض طرق الدفع";
+"checkout_card" = "بطاقة";
+"checkout_card_networks" = "مدى · فيزا";
+"checkout_installments" = "قسّط";
+"checkout_confirm_booking_payment" = "تأكيد الحجز والدفع";
+"checkout_installment_offer" = "أو %d دفعات بقيمة";
+
+// Package payment sheet
+"package_payment_details" = "التفاصيل";
+"package_payment_hide_details" = "إخفاء التفاصيل";
+"package_payment_continue" = "متابعة — %@ %@";
+"package_payment_duration" = "المدة: %d يوم";
+"package_payment_apple_pay_hint" = "أسرع طريقة — بضغطة واحدة";
+"package_payment_installment_hint" = "قسّمها على دفعات";
+"package_payment_tabby_hint" = "ادفع لاحقًا أو قسّط";
+"package_payment_title" = "اختر طريقة الدفع";

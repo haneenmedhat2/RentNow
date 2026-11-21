@@ -1,0 +1,1150 @@
+/* 
+  Localizable.strings
+  App
+
+  Created by MGAbouarab on 29/12/2023.
+  
+*/
+
+//MARK: - IntroSelectLanguageView.xib -
+"Intro_Language_Welcome" = "Welcome";
+"Please_select_your_language" = "Please select your preferred language";
+"Confirm_language_button" = "Confirm";
+
+//MARK: - AppTabBarController.swift -
+"Home_page_title_tabBar" = "Home";
+"My_child_title_tabBar" = "My child";
+
+"My_orders_title_tabBar" = "My orders";
+"Offers_title_tabBar" = "Offers";
+"More_title_tabBar" = "More";
+
+//MARK: - HomeViewController.swift -
+"Home_navigation_title" = "Home";
+"near_stores_title" = "Near Stores";
+"categories_section_title" = "Categories";
+
+//MARK: - NearProvidersView.swift -
+"Open_Status" = "Open";
+"Closed_Status" = "Closed";
+
+//MARK: - NavigationSelectAddressView.xib -
+"Select_Your_Address_Title" = "Address";
+"Select_Your_Address" = "Select your address";
+
+//MARK: - NotificationsViewController.swift -
+"Notification_title_page" = "Notifications";
+
+//MARK: - PickLocationViewController.swift -
+"Select_location_title_page" = "Select Location";
+"Choose location" = "Choose location";
+
+//MARK: - PickLocationViewController.xib -
+"Confirm_location_action" = "Confirm";
+"Loading_Address_text" = "Detect location ...";
+
+//MARK: - ParcelDeliveryViewController.swift -
+"ParcelDeliveryTitle" = "Parcel Delivery";
+
+//MARK: - CreateOrderDetailsView.swift -
+"Create_Your_order_Details_title" = "Order details:";
+"Your_order_Notes_title" = "Your notes";
+"Write_your_Notes_here" = "Add any notes here if exists";
+
+//MARK: - PickImageView.swift -
+"attach_images_title" = "Attach images";
+"attach_image_title" = "Attach image";
+
+//MARK: - PaymentTypesView.xib -
+"Payment_type_title" = "Payment type:";
+
+//MARK: - OrderReceiveDetailsView.xib -
+"Order_Receive_Details_View_Title" = "Order Receive Details:";
+
+//MARK: - OrderReceiveDetailsView.xib -
+"Receive_Location_title" = "Receive location";
+"Receive_Location_placeholder" = "Please enter receive location";
+"Delivery_Location_title" = "Delivery location";
+"Delivery_Location_placeholder" = "Please enter delivery location";
+"Delivery_Time_Title" = "Delivery time";
+"Delivery_Time_Placeholder" = "Please select delivery time";
+
+//MARK: - OrderReceiveDetailsView.swift -
+"One_Hour" = "One hour";
+"Two_Hour" = "Two hours";
+"Three_Hour" = "Three hours";
+"Four_Hour" = "Four hours";
+"Five_Hour" = "Five hours";
+"Six_Hour" = "Six hours";
+"Seven_Hour" = "Seven hours";
+"Eight_Hour" = "Eight hours";
+"Nine_Hour" = "Nine hours";
+"Ten_Hour" = "Ten hours";
+
+//MARK: OrderPriceSummaryView.xib -
+"Order_Price_Summary_title" = "Order Summary";
+
+//MARK: - ParcelDeliveryViewModel.swift -
+"Delivery_price_title" = "Delivery price";
+"Discount_value_title" = "Discount value";
+"Application_commission_title" = "Application commission";
+"Value_Added_title" = "Value added";
+"Price_Sum_title" = "The total";
+
+//MARK: - ParcelDeliveryViewController.xib -
+"Confirm_Parcel_Order_Button_Title" = "Confirm order";
+
+//MARK: - OrderValidationError.swift -
+"OrderValidationError_emptyOrderDetails" = "Please enter order notes";
+"OrderValidationError_emptyOrderPaymentType" = "Please select payment type";
+"OrderValidationError_emptyOrderStartLocation" = "Please enter receive location";
+"OrderValidationError_emptyOrderEndLocation" = "Please enter delivery location";
+"OrderValidationError_emptyOrderDurationTime" = "Please select delivery time";
+
+//MARK: - SuccessCreateOrderViewController.xib -
+"Congratulation_Success_order_title" = "Congratulations! Your request has been sent successfully";
+"Congratulation_Success_order_message" = "Your request has been sent successfully, and you can follow your request from the list of my requests.";
+"Follow_Order_Button_title" = "Track order";
+"Back_Home_Button_title" = "Home";
+
+//MARK: - BaseViewController.swift -
+"Login_alert_title" = "Login";
+"Login_alert_message" = "To continue please login first";
+"Login_alert_action_title" = "Login";
+"alert_cancel_title" = "Cancel";
+
+//MARK: - SpecialRequestViewController.swift -
+"SpecialRequestTitle" = "Special request";
+
+//MARK: - SpecialRequestViewController.xib -
+"Confirm_Special_Order_Button_Title" = "Confirm order";
+
+//MARK: - MoreViewController.swift -
+"More_Title" = "More";
+"Account_Information_Header_Title" = "Account information";
+"Personal_Profile_More_Title" = "Personal Profile";
+"Settings_More_Title" = "Settings";
+"Packages_More_Title" = "Packages";
+"Share_Partner_More_Title" = "Share";
+"Device_Market_More_Title" = "Device Market";
+"About_Platform_More_Title" = "About Platform";
+"Financial_Transactions_More_Title" = "Financial Transactions";
+"My_Complains_More_Title" = "Complains";
+"Wallet_More_Title" = "Wallet";
+"Users_Comments_More_Title" = "Users comments";
+"General_Settings_Header_Title" = "General settings";
+"Notifications_Settings_More_Title" = "Notification settings";
+"Language_Settings_More_Title" = "Language settings";
+"General_Information_Header_Title" = "General information";
+"About_Us_More_Title" = "About us";
+"Contact_Us_More_Title" = "Contact us";
+"Privacy_More_Title" = "Privacy policy";
+"Terms_And_Conditions_More_Title" = "Terms and conditions";
+"Rate_App_More_Title" = "Rate the app";
+"Logout_More_Title" = "Logout";
+"Join_Us_More_Title" = "How to work with Marsol Awammer?";
+"Connect_Us_With_Telegram_More_Title" = "Contact us with telegram";
+
+//MARK: - NavigationUserInfoView.swift -
+"Default_Welcome_Title" = "Welcome";
+
+//MARK: - ProviderHeaderView.swift -
+"Work_hours_provider_details_text" = "Work hours";
+
+//MARK: - ProviderHeaderView.xib -
+"Delivery_Price_Text" = "Delivery price:";
+"Store_Branches_title" = "Store branches";
+"Change_Location_title" = "Change";
+
+//MARK: - AppHelper.swift -
+"Open_Location_With_title" = "Open with";
+"Cancel_Action_title" = "Cancel";
+"Maps_Action_title" = "Apple Maps";
+"Google_Maps_Action_title" = "Google Maps";
+
+//MARK: - ProductFeaturesView.swift -
+"Features_Section_Title" = "Features";
+
+//MARK: - ProductDetailsViewController.xib -
+"Product_Details_Price" = "Price";
+"Required_Product_Details_Amount" = "Required amount";
+"Confirm_Normal_Order_Button_Title" = "Confirm";
+
+//MARK: - ProductAdditionsView.xib -
+"Additions_Section_Title" = "Additions";
+
+//MARK: - String.swift -
+"App_Currency" = "SA";
+
+//MARK: - ProductDetailsError.swift -
+"Maximum_Amount_Reached" = "Maximum amount available for this product is:";
+"Invalid_Entered_Amount" = "Invalid entered amount, Please enter correct formate";
+"Not_Select_All_Required_Features" =  "Please select all features first";
+
+//MARK: - ProviderDetailsViewController.xib -
+"Select_Your_Products_First" = "Select your products first 👆🏼";
+"Continue_Order" = "Continue order";
+"Total_CartActionView_Price" = "Total";
+
+//MARK: - NormalOrderSummaryViewController.xib -
+"Confirm_Normal_Order_Button_Title" = "Confirm order";
+"Normal_Order_Summary_Products_Title" = "Order Details";
+
+//MARK: - NormalOrderSummaryViewController.swift -
+"Order_Summary_title" = "Order Summary";
+
+//MARK: - NormalOrderReceiveView.xib -
+"Normal_Order_Receive_Details_View_Title" = "Receive order:";
+"Delivery_To_Client_Location_title" = "Receive location";
+"Delivery_To_Client_Location_placeholder" = "Please enter receive location";
+"Delivery_By_Delegate" = "By delegate";
+"Delivery_From_Branch" = "From branch";
+
+//MARK: - NormalOrderSummaryViewModel.swift -
+"Order_value_price_title" = "Order value";
+
+//MARK: - MyOrdersViewController.swift -
+"MyOrders_Segmented_title" = "My Orders";
+"MySpecialOrders_Segmented_title" = "Special Orders";
+"waiting_approve_orders_Segmented_title" = "Waiting approve";
+"current_orders_Segmented_title" = "Current orders";
+"finished_orders_Segmented_title" = "Finished Orders";
+
+//MARK: - PaymentMethodAlertView.swift -
+"Choose Payment Method" = "Choose Payment Method";
+"Wallet" = "Wallet";
+"Electronic Payment" = "Electronic Payment";
+"Confirm Payment" = "Confirm Payment";
+
+//MARK: - MachineDetailsView.swift -
+"Machine Details" = "Machine Details";
+"Device Class :" = "Device Class :";
+"Device Price :" = "Device Price :";
+"Add to Cart" = "Add to Cart";
+
+//MARK: - SpecialOrderView.swift -
+"Required Devices" = "Required Devices";
+"Device" = "Device";
+"Count" = "Count";
+"Send" = "Send";
+"Please enter device" = "Please enter device";
+"Please enter count" = "Please enter count";
+"Please enter valid count" = "Please enter valid count";
+"Validation error" = "Validation error";
+"Order sent successfully" = "Order sent successfully";
+
+//MARK: - Additional strings
+"More" = "More";
+"Cancel" = "Cancel";
+"Logout" = "Logout";
+"Notifications" = "Notifications";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+
+//MARK: - OrdersView.swift -
+"My Sent Requests" = "My Sent Requests";
+
+//MARK: - OrderCategoryModel.swift -
+"Medical Device Maintenance Requests" = "Medical Device Maintenance Requests";
+"View medical maintenance requests" = "View medical maintenance requests";
+"Medical Device Rental Requests" = "Medical Device Rental Requests";
+"View medical device rental requests" = "View medical device rental requests";
+"Medical Device Market Requests" = "Medical Device Market Requests";
+"View medical device market requests" = "View medical device market requests";
+
+//MARK: - OrderType.swift -
+"My orders sent" = "My orders sent";
+
+//MARK: - OrdersListModel.swift (Sales subcategories) -
+"Price Quote Requests" = "Price Quote Requests";
+"Cart Orders" = "Cart Orders";
+
+//MARK: - OrdersDisplayView.swift -
+"New" = "New";
+"Waiting for Payment" = "Waiting for Payment";
+"Current" = "Current";
+"Finished" = "Finished";
+"Service Type: " = "Service Type: ";
+"View Order" = "View Order";
+"Order Status: " = "Order Status: ";
+"No orders available" = "No orders available";
+
+//MARK: - PriceOffersOrderDetailsView.swift -
+"Loading image..." = "Loading image...";
+"Loading video..." = "Loading video...";
+"Failed to load image" = "Failed to load image";
+"Failed to load video" = "Failed to load video";
+"Invalid video URL" = "Invalid video URL";
+"Video is not playable" = "Video is not playable";
+"Invalid image URL" = "Invalid image URL";
+"Service Provider Details:" = "Service Provider Details:";
+"Chat" = "Chat";
+"Order Details" = "Order Details";
+"Order Number" = "Order Number";
+"Order Status" = "Order Status";
+"Service Type" = "Service Type";
+"Serial Number" = "Serial Number";
+"Model" = "Model";
+"Department" = "Department";
+"Device Location" = "Device Location";
+"Problem Description:" = "Problem Description:";
+"Damage Images:" = "Damage Images:";
+"Not Specified" = "Not Specified";
+"No details available" = "No details available";
+"Unable to load video" = "Unable to load video";
+"SAR" = "SAR";
+"Attach Transfer Image" = "Attach Transfer Image";
+"Please select an image" = "Please select an image";
+"Failed to process image" = "Failed to process image";
+
+//MARK: - RateOrderPopUp.swift -
+"Rate Service Provider" = "Rate Service Provider";
+"Your Comment" = "Your Comment";
+"Enter your comment" = "Enter your comment";
+"Please select a rating" = "Please select a rating";
+
+//MARK: - OrderActionButtonsView.swift (Rental Actions) -
+"Renew Rent" = "Renew Rent";
+"End Rent" = "End Rent";
+
+//MARK: - CartDevicesDetailsCardView.swift -
+"Available now" = "Available now";
+
+//MARK: - ChangePasswordView.swift -
+"Current password" = "Current password";
+"New password" = "New password";
+"Confirm password" = "Confirm password";
+"Change password" = "Change password";
+"Password must be at least 6 characters" = "Password must be at least 6 characters";
+"Password must not exceed 100 characters" = "Password must not exceed 100 characters";
+"Current password is required" = "Current password is required";
+"New password is required" = "New password is required";
+"Password confirmation is required" = "Password confirmation is required";
+"Passwords do not match" = "Passwords do not match";
+"Confirm New Password" = "Confirm New Password";
+"Password must contain letters, numbers and symbols" = "Password must contain letters, numbers and symbols";
+"Password changed successfully" = "Password changed successfully";
+"Password should not contain spaces at the beginning or end." = "Password should not contain spaces at the beginning or end.";
+
+//MARK: - EditProfileView.swift -
+"Edit Personal Profile" = "Edit Personal Profile";
+"Edit" = "Edit";
+"Name must not exceed 50 characters" = "Name must not exceed 50 characters";
+"Name is required" = "Name is required";
+
+//MARK: - DeleteAccountAlertView.swift -
+"Delete Account" = "Delete Account";
+"If you confirm, all your data will be deleted" = "If you confirm, all your data will be deleted";
+"Confirm Delete" = "Confirm Delete";
+
+//MARK: - ChangePhoneNewPhoneView.swift -
+"Change phone number" = "Change phone number";
+"Phone number" = "Phone number";
+"Confirm" = "Confirm";
+"Please enter a valid phone number" = "Please enter a valid phone number";
+"Please select country code" = "Please select country code";
+"Unable to retrieve phone number" = "Unable to retrieve phone number";
+
+//MARK: - MoreVerificationCodeView.swift -
+"Time remaining:" = "Time remaining:";
+"second" = "second";
+"Active" = "Active";
+"you can't resend code before" = "you can't resend code before";
+"⏳ Please wait until the time is up before resubmitting." = "⏳ Please wait until the time is up before resubmitting.";
+
+//MARK: - PlaceholderView -
+"Coming Soon" = "Coming Soon";
+
+//MARK: - PackagesView.swift -
+"Subscribe" = "Subscribe";
+"Subscribed" = "Subscribed";
+"Package duration" = "Package duration";
+"You are already subscribed to this package" = "You are already subscribed to this package";
+"No packages available" = "No packages available";
+
+//MARK: - DeviceMarketView.swift -
+"Device Market" = "Device Market";
+"No devices available" = "No devices available";
+"Add new product" = "Add new product";
+
+//MARK: - SharePartnerView.swift -
+"Partnership" = "Partnership";
+"Team Name" = "Team Name";
+"Enter team name" = "Enter team name";
+"Specialties" = "Specialties";
+"Send" = "Send";
+"Team name is required" = "Team name is required";
+"Team name must be less than 255 characters" = "Team name must be less than 255 characters";
+"Please select at least one specialty" = "Please select at least one specialty";
+"Please select an item" = "Please select an item";
+"Search..." = "Search...";
+"Search by %@" = "Search by %@";
+"Confirm" = "Confirm";
+
+//MARK: - DeleteMachineAlertView.swift -
+"Delete device?" = "Delete device?";
+"Are you sure you want to delete the device" = "Are you sure you want to delete the device";
+
+//MARK: - AddNewDeviceView.swift -
+"Edit product" = "Edit Product";
+"Device name" = "Device name";
+"(Arabic)" = "(Arabic)";
+"(English)" = "(English)";
+"Device description" = "Device description";
+"Service description" = "Service description";
+"Category" = "Category";
+"Supplier name" = "Supplier name";
+"Device images" = "Device images";
+"Device condition" = "Device condition";
+"Sale" = "Sale";
+"Rent" = "Rent";
+
+// Validation messages
+"Device name is required" = "Device name is required";
+"Supplier name is required" = "Supplier name is required";
+"Price is required" = "Price is required";
+"Price must be a valid number" = "Price must be a valid number";
+"Device class is required" = "Device class is required";
+"Type is required" = "Type is required";
+"Description is required" = "Description is required";
+"Quantity is required" = "Quantity is required";
+"At least one image is required" = "At least one image is required";
+"Device condition is required" = "Device condition is required";
+
+// MARK: - Contact Us
+"Contact Us" = "Contact Us";
+"Message title" = "Message Title";
+"Message text" = "Message Text";
+"Send" = "Send";
+"Name is required" = "Name is required";
+"Phone number is required" = "Phone number is required";
+"Title is required" = "Title is required";
+"Message is required" = "Message is required";
+"Name must not exceed 50 characters" = "Name must not exceed 50 characters";
+"Title must not exceed 250 characters" = "Title must not exceed 250 characters";
+"Message must not exceed 250 characters" = "Message must not exceed 250 characters";
+
+// MARK: - Info Content
+"Loading..." = "Loading...";
+
+// MARK: - Wallet
+"Your current balance" = "Your current balance";
+"Charge Wallet" = "Charge Wallet";
+"Charge amount" = "Charge amount";
+"Confirm" = "Confirm";
+
+// MARK: - Logout Confirmation
+"Logout Confirmation Title" = "Logout";
+"Logout Confirmation Message" = "Are you sure you want to logout?";
+"Confirm Logout" = "Confirm Logout";
+"Go Back" = "Go Back";
+
+// MARK: - Financial Transactions
+"Financial Transactions" = "Financial Transactions";
+"Outstanding" = "Outstanding";
+"New Settlement" = "New Settlement";
+"Completed" = "Completed";
+"Outstanding Values" = "Outstanding Values";
+"Total Orders" = "Total Orders";
+"App Commission Total" = "App Commission Total";
+"Tax Total" = "Tax Total";
+"Request Settlement" = "Request Settlement";
+"Order Number" = "Order Number";
+"Commission" = "Commission";
+"Tax" = "Tax";
+"Order Value" = "Order Value";
+"Total" = "Total";
+"SAR" = "SAR";
+"Order Status" = "Order Status";
+"Order Date" = "Order Date";
+"View Order" = "View Order";
+"Settlement Details" = "Settlement Details";
+"Financial Values" = "Financial Values";
+"Admin Commission" = "Admin Commission";
+"Tax Amount" = "Tax Amount";
+"Settlement Amount" = "Settlement Amount";
+"Orders Details" = "Orders Details";
+"Completed Settlement" = "Completed Settlement";
+"Transfer Image" = "Transfer Image";
+
+//MARK: - Chat -
+"NoChatsYet" = "No chats yet";
+
+//MARK: - Notifications -
+"Notifications" = "Notifications";
+"No notifications" = "No notifications";
+"Accept" = "Accept";
+"Reject" = "Reject";
+"Administration" = "Administration";
+"Notification deleted" = "Notification deleted";
+"Request accepted" = "Request accepted";
+"Request rejected" = "Request rejected";
+
+//MARK: - Login Required -
+"Login Required" = "Login Required";
+"Please login first to use this feature" = "Please login first to use this feature";
+"Please login to view your orders" = "Please login to view your orders";
+"Please login to access chat" = "Please login to access chat";
+"Please login to access your cart" = "Please login to access your cart";
+"Please login to view notifications" = "Please login to view notifications";
+"Please login to access this feature" = "Please login to access this feature";
+"login" = "Login";
+
+//MARK: - No Internet Alert -
+"No Internet Connection" = "No Internet Connection";
+"Please check your internet connection and try again" = "Please check your internet connection and try again";
+"Retry" = "Retry";
+
+//MARK: - IntroView / Onboarding -
+"Skip" = "Skip";
+"Start Now" = "Start Now";
+
+"Login successful" = "Login successful";
+
+//MARK: - LoginView -
+"Hello! Welcome back agian." = "Hello! Welcome back again.";
+"Sign in and let us help you rent or list your car easily." = "Sign in and let us help you rent or list your car easily.";
+"Login as visitor" = "Login as visitor";
+"Don't have an account?" = "Don't have an account?";
+"Create new account" = "Create new account";
+
+//MARK: - PhoneTextView -
+"Phone" = "Phone";
+"Phone number" = "Phone number";
+
+//MARK: - Phone Validation -
+"Please enter your phone number" = "Please enter your phone number";
+"Please enter correct phone number" = "Please enter correct phone number";
+"Please select your country code." = "Please select your country code.";
+
+//MARK: - RegisterView -
+"Hello! Let's get started." = "Hello! Let's get started.";
+"Create your account and let us help you rent or list your car easily." = "Create your account and let us help you rent or list your car easily.";
+"register_welcome_message" = "Let's start your journey with \"Rent Now\"";
+"register_title" = "Create new account";
+"register_subtitle" = "Whether you want to rent a car or rent out your car and earn, register your account in simple steps.";
+"Full name" = "Full name";
+"National ID" = "National ID";
+"Country" = "Country";
+"Profile photo" = "Profile photo";
+"Remove photo" = "Remove photo";
+"profile_photo_optional" = "Profile photo (optional)";
+"Password must be at least 6 characters" = "Password must be at least 6 characters";
+
+//MARK: - National ID Validation -
+"National ID is required" = "National ID is required";
+"National ID must be 10 digits" = "National ID must be 10 digits";
+"National ID must start with 1 or 2" = "National ID must start with 1 or 2";
+"National ID must contain only numbers" = "National ID must contain only numbers";
+
+//MARK: - Country Validation -
+"Please select country" = "Please select country";
+
+//MARK: - Registration Response -
+"Nafaz verification failed" = "Nafaz verification failed";
+
+//MARK: - ForgetPasswordView -
+"forget_password_title" = "Forgot your password? No worries";
+"forget_password_subtitle" = "Enter your phone number and we will send you a verification code to reset your password.";
+"forget_password_button" = "Send verification code";
+
+//MARK: - VerificationCodeView -
+"verification_code_title" = "We sent you the verification code";
+"verification_code_subtitle" = "Enter the code you received on your phone to complete verification and change your password.";
+"verification_code_button" = "Confirm Registration";
+"verification_timer_seconds" = "seconds";
+"verification_resend_question" = "Didn't receive the code?";
+"verification_resend_action" = "Resend";
+"Please enter full code" = "Please enter full code";
+
+//MARK: - ResetPasswordView -
+"reset_password_title" = "Change your password";
+"reset_password_subtitle" = "Choose a new password, and make sure it's strong and easy to remember.";
+"reset_password_field" = "Password";
+"reset_password_confirm_field" = "Confirm password";
+"reset_password_hint" = "Password must contain letters, numbers and symbols";
+"reset_password_button" = "Confirm change";
+"reset_password_success_title" = "Password Changed Successfully";
+"reset_password_success_subtitle" = "Please wait, you will be redirected to login page";
+
+//MARK: - TabBar -
+"tab_home" = "Home";
+"tab_orders" = "Orders";
+"tab_add_ad" = "Add Ad";
+"tab_wallet" = "Wallet";
+"tab_more" = "More";
+
+//MARK: - HomeView -
+"home_welcome_message" = "Hello! Welcome back";
+"home_select_location" = "Select your location";
+"home_limited_offer" = "LIMITED-TIME OFFER";
+"home_special_deal" = "SPECIAL DEAL";
+"home_new_arrivals" = "NEW ARRIVALS";
+
+//MARK: - Category List Screen -
+"category_luxury_cars" = "Luxury Cars";
+"category_economy_cars" = "Economy Cars";
+"category_small_cars" = "Small Cars";
+"category_offroad_cars" = "Off-Road & Camping Cars";
+"all_subcategories" = "All";
+"search_placeholder" = "Search by car name...";
+"search_no_results" = "No cars found";
+"per_day" = "per day";
+"subcategory_default" = "Subcategory";
+
+//MARK: - Network Errors -
+"server_error_unable_to_process" = "Server error: Unable to process response. Please try again or contact support.";
+
+//MARK: - Notifications Screen -
+"notifications_title" = "Notifications";
+"notifications_delete_all" = "Delete All";
+"notifications_empty_title" = "No Notifications";
+"notifications_empty_message" = "You don't have any notifications yet";
+"notifications_delete_all_confirm_title" = "Delete All Notifications";
+"notifications_delete_all_confirm_message" = "Are you sure you want to delete all notifications? This action cannot be undone.";
+"notifications_delete_all_confirm_action" = "Delete All";
+"notifications_delete_single_confirm_title" = "Delete Notification";
+"notifications_delete_single_confirm_message" = "Are you sure you want to delete this notification?";
+"delete" = "Delete";
+"cancel" = "Cancel";
+"notifications_delete_all_success" = "All notifications deleted successfully";
+"notifications_delete_single_success" = "Notification deleted successfully";
+"notification_time_just_now" = "Just now";
+"notification_time_minutes_ago" = "%d minutes ago";
+"notification_time_hours_ago" = "%d hours ago";
+"notification_time_days_ago" = "%d days ago";
+"notification_time_weeks_ago" = "%d weeks ago";
+"notification_time_months_ago" = "%d months ago";
+
+// MARK: - AirportsSheet
+"airports_sheet_title" = "Available airports in this area";
+"airports_empty_title" = "No Airports Found";
+"airports_empty_message" = "No airports found nearby. Try selecting a different location on the map.";
+"airports_determine_location" = "Determine Location from Map";
+"confirm" = "Confirm";
+"airport_selection_required" = "Please select an airport";
+"location_updated_successfully" = "Location updated successfully";
+"location_permission_denied" = "Location permission denied. Please enable it in Settings.";
+"location_not_available" = "Location not available";
+"location_update_failed" = "Failed to update location";
+"unknown_error" = "An unknown error occurred";
+
+// MARK: - Filter Sheet
+"filter_title" = "Filter by";
+"car_model" = "Car Model";
+"types_and_models" = "Types and Models";
+"select_all_models" = "Select all models";
+"select_all" = "Select all";
+"fuel_type" = "Fuel Type";
+"city" = "City";
+"cities" = "Cities";
+"select_all_cities" = "Select all cities";
+"cost" = "Cost";
+"confirm" = "Confirm";
+"selected" = "selected";
+"all_selected" = "All selected";
+"search_car_type" = "Search by car type name";
+"search_city" = "Search by city name";
+"additional_features" = "Additional Features";
+"reset" = "Reset";
+
+// MARK: - Advertisement Details Screen
+"ad_details_title" = "Car Details";
+"ad_details_location" = "Car Location";
+"ad_details_car_details" = "Car Details";
+"ad_details_description" = "Description";
+"ad_details_safety_instructions" = "Safety Instructions";
+"ad_details_provider" = "Provider Details";
+"ad_details_ratings" = "Ratings";
+"ad_details_no_ratings" = "No ratings yet";
+"ad_details_similar_ads" = "Similar Ads";
+"ad_details_book_car" = "Book Car";
+"ad_details_more" = "More";
+"coming_soon" = "Coming Soon";
+
+// MARK: - Search Screen
+"search_title" = "Search";
+"search_start_message" = "Search for the car you want";
+"subcategory" = "Subcategory";
+
+// MARK: - Provider Profile Screen
+"provider_profile.title" = "Provider Profile";
+"provider_profile.ads_section" = "His Advertisements";
+
+// MARK: - Add Advertisement Screen
+"add_ad.title" = "Add New Advertisement";
+"add_ad.car_image" = "Car Image";
+"add_ad.car_image_subtitle" = "You can upload up to 3 photos";
+"add_ad.car_type" = "Car Type";
+"add_ad.select_car_type" = "Select car type";
+"add_ad.car_model" = "Car Model";
+"add_ad.select_car_model" = "Select car model";
+"add_ad.fuel_type" = "Fuel Type";
+"add_ad.select_fuel_type" = "Select fuel type";
+"add_ad.main_category" = "Main Category";
+"add_ad.select_main_category" = "Select main category";
+"add_ad.sub_category" = "Sub Category";
+"add_ad.select_sub_category" = "Select sub category";
+"add_ad.city" = "City";
+"add_ad.select_city" = "Select city";
+"add_ad.location" = "Geographic Location";
+"add_ad.select_location" = "Select geographic location";
+"add_ad.price_per_day" = "Price Per Day";
+"add_ad.enter_price" = "Enter price per day";
+"add_ad.insurance_price" = "Insurance Price";
+"add_ad.enter_insurance" = "Enter insurance price";
+"add_ad.description" = "Car Description";
+"add_ad.enter_description" = "Enter car description";
+"add_ad.safety_instructions" = "Safety Instructions";
+"add_ad.enter_safety_instructions" = "Enter safety instructions";
+"add_ad.additional_services" = "Available Additional Services";
+"add_ad.confirm" = "Confirm Addition";
+"add_ad.success_title" = "Advertisement Added";
+"add_ad.success_subtitle" = "Your advertisement has been added successfully";
+"add_ad.min_km" = "Minimum Kilometers";
+"add_ad.max_km" = "Maximum Kilometers";
+"add_ad.extra_km_price" = "Extra Kilometer Price";
+"add_ad.delivery_enabled" = "Delivery to renter location";
+"add_ad.receive_enabled" = "Receive from renter location";
+
+"You can upload up to %d photos" = "You can upload up to %d photos";
+"You can upload up to %d videos" = "You can upload up to %d videos";
+"You can upload up to %d photos/videos" = "You can upload up to %d photos/videos";
+
+// MARK: - Create Order Screen
+"Please fill in the following data" = "Please fill in the following data";
+"Insurance amount" = "Insurance amount";
+"Rental date" = "Rental date";
+"Booking time" = "Booking time";
+"Price per day" = "Price per day";
+"Number of rental days" = "Number of rental days";
+"Return pickup price" = "Return pickup price";
+"Discount amount" = "Discount amount";
+"Application fees amount" = "Application fees amount";
+"Total before VAT" = "Total before VAT";
+"VAT percentage" = "VAT percentage";
+"VAT value" = "VAT value";
+"Final total" = "Final total";
+"Rental start time" = "Rental start time";
+"Number of days" = "Number of days";
+"Rental end date" = "Rental end date";
+"Rental start date" = "Rental start date";
+"Select rental start date" = "Select rental start date";
+"Select rental end date" = "Select rental end date";
+"Select payment method" = "Select payment method";
+"Additional features" = "Additional features";
+"Delivery method" = "Pickup method from lessor";
+"Pickup from location" = "Pickup from location";
+"Delivery" = "Delivery";
+"Delivery location" = "Delivery location";
+"Select delivery location" = "Select delivery location";
+"Notes" = "Notes";
+"Enter your notes here" = "Enter your notes here";
+"Agree to cancellation and delay terms" = "Agree to cancellation and delay terms";
+"Rental price" = "Rental price";
+"Insurance" = "Insurance";
+"Tax" = "Tax";
+"Total" = "Total";
+"Proceed" = "Proceed";
+"Book Car" = "Book Car";
+"Delivery cost" = "Delivery cost";
+"Features cost" = "Features cost";
+"Order placed successfully" = "Order placed successfully";
+"Please wait while we redirect you" = "Please wait while we redirect you";
+"Please select rental start date" = "Please select rental start date";
+"Please select rental end date" = "Please select rental end date";
+"Please select rental start time" = "Please select rental start time";
+"Please enter number of days" = "Please enter number of days";
+"Please select payment method" = "Please select payment method";
+"Please select delivery location" = "Please select delivery location";
+"Please select return pickup location" = "Please select return pickup location";
+"Return method to lessor" = "Return method to lessor";
+"Return to lessor" = "Return to lessor";
+"Return pickup location" = "Return pickup location";
+"Select return pickup location" = "Select return pickup location";
+"Delivery notes" = "Delivery notes";
+"Return notes" = "Return notes";
+"Please agree to cancellation and delay terms" = "Please agree to cancellation and delay terms";
+
+// MARK: - Wallet & Packages
+"Wallet" = "Wallet";
+"No active subscription" = "No active subscription";
+"Subscribe to a package" = "Subscribe to a package";
+"Packages" = "Packages";
+"Please choose from available packages" = "Please choose from available packages";
+"Subscribe now" = "Subscribe now";
+"Renew subscription" = "Renew subscription";
+"Cancel subscription" = "Cancel subscription";
+"Subscription cancelled successfully" = "Subscription cancelled successfully";
+"Free operations count" = "Free operations count";
+"Discount percentage" = "Discount percentage";
+"Description" = "Description";
+"Actual package description" = "Actual package description";
+"Number of delivery times" = "Number of delivery times";
+"Number of free delivery times" = "Number of free delivery times";
+"Remaining free delivery times" = "Remaining free delivery times";
+"months" = "months";
+"1 month" = "1 month";
+"%d months" = "%d months";
+"days" = "days";
+"Are you sure you want to cancel?" = "Are you sure you want to cancel your subscription?";
+"Confirm cancel subscription" = "Confirm cancel subscription";
+"This action cannot be undone" = "Please note that this action cannot be undone";
+"Confirm cancellation" = "Confirm cancellation";
+"Subscription successful" = "Subscription successful";
+"Cancel" = "Cancel";
+
+// MARK: - Orders
+"New Orders" = "New Orders";
+"Current Orders" = "Current Orders";
+"Ended Orders" = "Ended Orders";
+"For the renter" = "For the renter";
+"No orders available" = "No orders available";
+"Order Details" = "Order Details";
+"Car Data" = "Car Data";
+"Start Date" = "Start Date";
+"End Date" = "End Date";
+"Booking Time" = "Booking Time";
+"Number of Days" = "Number of Days";
+"Min Kilometers" = "Min Kilometers";
+"Max Kilometers" = "Max Kilometers";
+"Extra Kilometer Price" = "Extra Kilometer Price";
+"Insurance Price" = "Insurance Price";
+"Car Image" = "Car Image";
+"Price Per Day" = "Price Per Day";
+"Enter price per day" = "Enter price per day";
+"Enter insurance price" = "Enter insurance price";
+"Car Description" = "Car Description";
+"Enter car description" = "Enter car description";
+"Minimum Kilometers" = "Minimum Kilometers";
+"Maximum Kilometers" = "Maximum Kilometers";
+"Available Additional Services" = "Available Additional Services";
+"km" = "km";
+"SAR" = "SAR";
+"Delivery Data" = "Delivery Data";
+"Delivery Method" = "Delivery Method";
+"Delivery Location" = "Delivery Location";
+"Return Method" = "Return Method";
+"Return Location" = "Return Location";
+"Notes" = "Notes";
+"Payment" = "Payment";
+"Payment Method" = "Payment Method";
+"Rent Price" = "Rent Price";
+"Delivery Price" = "Delivery Price";
+"Tax" = "Tax";
+"Total" = "Total";
+"Handover Data" = "Handover Data";
+"Return Data" = "Return Data";
+"Odometer Reading" = "Odometer Reading";
+"Extra Kilometers" = "Extra Kilometers";
+"Price per Kilometer" = "Price per Kilometer";
+"Cancel Order" = "Cancel Order";
+"Pay" = "Pay";
+"Payment Successful" = "Payment Successful";
+"Delivered" = "Delivered";
+"Received" = "Received";
+"Rate Car" = "Rate Car";
+
+// MARK: - More Screen
+"Personal Profile" = "Personal Profile";
+"Settings" = "Settings";
+"Language" = "Language";
+"Privacy Policy" = "Privacy Policy";
+"Terms and Conditions" = "Terms and Conditions";
+"My Ads" = "My Ads";
+"Customer Orders" = "Customer Orders";
+"My Ratings" = "My Ratings";
+"About Rent Now" = "About Rent Now";
+"How the App Works" = "How the App Works";
+"Cancellation and Delay Terms" = "Cancellation and Delay Terms";
+"There are no Cancellation and Delay Terms" = "There are no Cancellation and Delay Terms";
+"Complaints and Suggestions" = "Complaints and Suggestions";
+"Reports" = "Reports";
+"Welcome back!" = "Welcome back!";
+"You are subscribed to" = "You are subscribed to";
+"Gold Package" = "Gold Package";
+
+// MARK: - Settings Screen
+"Edit Profile" = "Edit Profile";
+
+// MARK: - Personal Profile Screen
+"Profile Picture" = "Profile Picture";
+"Full Name" = "Full Name";
+"Phone Number" = "Phone Number";
+"Email" = "Email";
+"City" = "City";
+
+// MARK: - Change Phone Number Flow
+"To change your phone number, please enter the current password" = "To change your phone number, please enter the current password";
+"Current Password" = "Current Password";
+"Next" = "Next";
+"Please enter the new phone number to send verification code to verify your identity" = "Please enter the new phone number to send verification code to verify your identity";
+"New Phone Number" = "New Phone Number";
+"Enter the code sent to your phone to verify your identity and change the phone number" = "Enter the code sent to your phone to verify your identity and change the phone number";
+"Phone number changed successfully" = "Phone number changed successfully";
+
+// MARK: - Edit Profile Screen
+"Full Name is required" = "Full Name is required";
+"Country is required" = "Country is required";
+"City is required" = "City is required";
+"Profile updated successfully" = "Profile updated successfully";
+
+// MARK: - Odometer Capture
+"Odometer Photo" = "Odometer Photo";
+"Odometer Reading" = "Odometer Reading";
+
+// MARK: - Rating
+
+// MARK: - My Ads Screen
+"Under Review" = "Under Review";
+"Rejected" = "Rejected";
+"No ads available" = "No ads available";
+
+// MARK: - Customer Orders Screen
+"Renter" = "Renter";
+
+// MARK: - Customer Order Details Screen
+"The Lessor" = "The Lessor";
+"Prepared" = "Prepared";
+"Confirm Delivery" = "Confirm Delivery";
+"Confirm Return" = "Confirm Return";
+
+// MARK: - My Ad Details Screen
+"Other Details" = "Other Details";
+"Delivery to renter location" = "Delivery to renter location";
+"Pickup from owner location" = "Pickup from owner location";
+"Additional Car Services" = "Additional Car Services";
+"Kilometer Calculation Service Details" = "Kilometer Calculation Service Details";
+"Delete Ad" = "Delete Ad";
+"Please note that this cannot be undone" = "Please note that this cannot be undone";
+
+// MARK: - Edit Ad Screen
+"Edit Ad Data" = "Edit Ad Data";
+"Confirm Edits" = "Confirm Edits";
+"Delivery to Renter" = "Delivery to Renter";
+"Pickup from Owner Location" = "Pickup from Owner Location";
+"Delivery method" = "Pickup method from lessor";
+"Choose from the following methods" = "Choose from the following methods";
+"Ad updated successfully" = "Ad updated successfully";
+
+// MARK: - Ad Status & Rejection
+"Ad Status" = "Ad Status";
+"Ad Active" = "Active";
+"Ad Inactive" = "Inactive";
+"Rejection Reason" = "Rejection Reason";
+"Edit Ad" = "Edit Ad";
+
+// MARK: - My Ratings Screen
+"Rating" = "Rating";
+
+// MARK: - All Ratings Screen
+"Ratings" = "Ratings";
+"No ratings yet" = "No ratings yet";
+
+// MARK: - Contact Us Screen
+"Message Text" = "Message Text";
+"Enter message text" = "Enter message text";
+"Confirm Send" = "Confirm Send";
+"You can contact us through" = "You can contact us through";
+"Message sent successfully" = "Message sent successfully";
+"Your message has been sent successfully" = "Your message has been sent successfully";
+
+// MARK: - Complaints and Suggestions Screen
+"Create New Complaint" = "Create New Complaint";
+"Complaint Title" = "Complaint Title";
+"Enter complaint title" = "Enter complaint title";
+"Complaint Text" = "Complaint Text";
+"Enter complaint text" = "Enter complaint text";
+"Attach Image" = "Attach Image";
+"Complaint Date" = "Complaint Date";
+"Responded" = "Responded";
+"No complaints yet" = "No complaints yet";
+"Complaint sent successfully" = "Complaint sent successfully";
+"Your complaint has been sent successfully" = "Your complaint has been sent successfully";
+"Complaint Details" = "Complaint Details";
+"Complaint Image" = "Complaint Image";
+"Admin Response" = "Admin Response";
+
+//MARK: - Reports -
+"Report" = "Report";
+"Report Date" = "Report Date";
+"Incident Location" = "Incident Location";
+"Add New Report" = "Add New Report";
+"Report Details" = "Report Details";
+"Incident Date" = "Incident Date";
+"Incident Time" = "Incident Time";
+"Issuing Authority" = "Issuing Authority";
+"The Report" = "The Report";
+"Select Incident Date" = "Select Incident Date";
+"Select Incident Time" = "Select Incident Time";
+"Select Incident Location" = "Select Incident Location";
+"Enter Issuing Authority" = "Enter Issuing Authority";
+"Attach Report" = "Attach Report";
+"No reports yet" = "No reports yet";
+"Report Incident" = "Report Incident";
+"Report sent successfully" = "Report sent successfully";
+"Your report has been sent successfully" = "Your report has been sent successfully";
+
+// MARK: - Financial Transactions
+"Financial Transactions" = "Financial Transactions";
+"Outstanding" = "Outstanding";
+"New Settlement" = "New Settlement";
+"Completed Settlement" = "Completed Settlement";
+"Total Orders" = "Total Orders";
+"Total Due Value" = "Total Due Value";
+"Total Commission" = "Total Commission";
+"Total commission discount" = "Total commission discount";
+"Total VAT" = "Total VAT";
+"Total" = "Total";
+"Settlement" = "Settlement";
+"Order Value" = "Order Value";
+"Commission" = "Commission";
+"VAT" = "VAT";
+"Order Number" = "Order Number";
+"Bank Account Details" = "Bank Account Details";
+"Bank Name" = "Bank Name";
+"Account Number" = "Account Number";
+"Account Holder Name" = "Account Holder Name";
+"IBAN Number" = "IBAN Number";
+"Confirm Send" = "Confirm Send";
+"Settlement request sent successfully" = "Settlement request sent successfully";
+"Settlement Details" = "Settlement Details";
+"Pending approval" = "Pending approval";
+"Approved" = "Approved";
+"Rejected" = "Rejected";
+"Bank Transfer" = "Bank Transfer";
+"Rejection Reason" = "Rejection Reason";
+"Orders" = "Orders";
+"No orders available" = "No orders available";
+"This field is required" = "This field is required";
+"Account number must be 10-15 digits" = "Account number must be 10-15 digits";
+"IBAN must be 2 letters followed by 22 numbers" = "IBAN must be 2 letters followed by 22 numbers";
+
+// MARK: - Nafath Verification
+"Authenticating via Nafath" = "Authenticating via Nafath";
+"Please wait until authentication is completed" = "Please wait until authentication is completed";
+"Authentication Successful" = "Authentication Successful";
+"Please wait, you will be redirected to the home page" = "Please wait, you will be redirected to the home page";
+
+// MARK: - Location Picker
+"Current location :" = "Current location :";
+"Try collect location ..." = "Try collect location ...";
+
+// MARK: - My Wallet
+"My Wallet" = "My Wallet";
+"Current Balance" = "Current Balance";
+"Recharge" = "Recharge";
+"Withdraw" = "Withdraw";
+"Recharge Balance" = "Recharge Balance";
+"Withdraw Balance" = "Withdraw Balance";
+"Enter amount" = "Enter amount";
+"IBAN" = "IBAN";
+"Account Name" = "Account Name";
+"Please enter a valid amount" = "Please enter a valid amount";
+"Amount exceeds your balance" = "Amount exceeds your balance";
+"This field is required" = "This field is required";
+"Balance recharged successfully" = "Balance recharged successfully";
+"Withdraw request submitted successfully" = "Withdraw request submitted successfully";
+
+// MARK: - In-App Payment
+"Close" = "Close";
+"Try Again" = "Try Again";
+"Checking payment status..." = "Checking payment status...";
+"Unable to check payment status. Retrying..." = "Unable to check payment status. Retrying...";
+"Unable to load payment page" = "Unable to load payment page";
+"Invalid payment response" = "Invalid payment response";
+"Payment failed" = "Payment failed";
+"Payment canceled" = "Payment canceled";
+"Payment expired" = "Payment expired";
+
+// MARK: - Booking Payment Options
+"%d payments × %@ %@" = "%d payments × %@ %@";
+"Updating payment options..." = "Updating payment options...";
+"No payment methods are currently available." = "No payment methods are currently available.";
+"This payment method is currently unavailable." = "This payment method is currently unavailable.";
+"Unable to update payment options. Please try again." = "Unable to update payment options. Please try again.";
+"Your selected payment method is no longer available. Please choose another method." = "Your selected payment method is no longer available. Please choose another method.";
+"Please wait for updated payment options before booking." = "Please wait for updated payment options before booking.";
+"Unable to create order. Please try again." = "Unable to create order. Please try again.";
+
+// MARK: - Order Payment Details
+"Change payment method" = "Change payment method";
+"Payment status" = "Payment status";
+"Unpaid" = "Unpaid";
+"Paid" = "Paid";
+"Awaiting payment confirmation" = "Awaiting payment confirmation";
+"Payment under review" = "Payment under review";
+"Refunded" = "Refunded";
+"Payment status unavailable" = "Payment status unavailable";
+"Updating payment method..." = "Updating payment method...";
+"Payment method updated" = "Payment method updated";
+"Unable to load payment methods. Please try again." = "Unable to load payment methods. Please try again.";
+"Unable to update payment method. Please refresh the order and try again." = "Unable to update payment method. Please refresh the order and try again.";
+
+"Complete the booking details above to choose a payment method." = "Complete the booking details above to choose a payment method.";
+
+// Tabby checkout
+"Tabby" = "Tabby";
+"Tabby could not approve this payment. Please choose another payment method." = "Tabby could not approve this payment. Please choose another payment method.";
+"Unable to start Tabby checkout. Please refresh the order and try again." = "Unable to start Tabby checkout. Please refresh the order and try again.";
+"Payment is still being verified. Check the order status before trying again." = "Payment is still being verified. Check the order status before trying again.";
+"Tabby checkout was canceled. You can try again from the order." = "Tabby checkout was canceled. You can try again from the order.";
+"Tabby session expired. Please try again to start a new session." = "Tabby session expired. Please try again to start a new session.";
+"This payment has been refunded." = "This payment has been refunded.";
+
+"Please check the booking dates and payment method." = "Please check the booking dates and payment method.";
+
+"Tamara could not approve this payment. Please choose another payment method." = "Tamara could not approve this payment. Please choose another payment method.";
+
+"Unable to start Tamara checkout. Please refresh the order and try again." = "Unable to start Tamara checkout. Please refresh the order and try again.";
+
+"Your payment is under review." = "Your payment is under review.";
+
+"Tamara" = "Tamara";
+
+"Unable to load Tamara installments." = "Unable to load Tamara installments.";
+
+"Learn more about Tamara installments" = "Learn more about Tamara installments";
+
+"Payment is still pending. Please check your wallet later." = "Payment is still pending. Please check your wallet later.";
+
+"Online" = "Online";
+"Pay the full amount" = "Pay the full amount";
+"Mada, Visa, Mastercard and Apple Pay" = "Mada, Visa, Mastercard and Apple Pay";
+"Pay %@ SAR" = "Pay %@ SAR";
+"Continue with Tabby" = "Continue with Tabby";
+"Continue with Tamara" = "Continue with Tamara";
+"Secure payment via Moyasar" = "Secure payment via Moyasar";
+
+"You aborted the payment. Please retry or choose another payment method." = "You aborted the payment. Please retry or choose another payment method.";
+
+"Payment is still pending. Please check your subscription later." = "Payment is still pending. Please check your subscription later.";
+
+"Confirming payment..." = "Confirming payment...";
+"Payment is unavailable. Please contact support." = "Payment is unavailable. Please contact support.";
+"Payment received, under review. Support will contact you." = "Payment received, under review. Support will contact you.";
+
+"Mada or credit card" = "Mada or credit card";
+"Mada, Visa and Mastercard" = "Mada, Visa and Mastercard";
+"Pay securely with Apple Pay" = "Pay securely with Apple Pay";
+"Apple Pay is currently unavailable." = "Apple Pay is currently unavailable.";
+
+// Booking checkout
+"checkout_payment_details" = "Payment details";
+"checkout_rental" = "Rental";
+"checkout_collapse_payment" = "Collapse payment methods";
+"checkout_expand_payment" = "Expand payment methods";
+"checkout_card" = "Card";
+"checkout_card_networks" = "Mada · Visa";
+"checkout_installments" = "Installments";
+"checkout_confirm_booking_payment" = "Confirm booking & payment";
+"checkout_installment_offer" = "Or %d payments of";
+
+// Package payment sheet
+"package_payment_details" = "Details";
+"package_payment_hide_details" = "Hide details";
+"package_payment_continue" = "Continue — %@ %@";
+"package_payment_duration" = "Duration: %d days";
+"package_payment_apple_pay_hint" = "The fastest way — with one tap";
+"package_payment_installment_hint" = "Split into installments";
+"package_payment_tabby_hint" = "Pay later or split payments";
+"package_payment_title" = "Choose payment method";

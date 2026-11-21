@@ -1,0 +1,42 @@
+"name-on-card" = "الاسم على البطاقة";
+"card-number" = "رقم البطاقة";
+"expiry" = "تاريخ الانتهاء (شهر/سنة)";
+"cvc" = "رمز الأمان";
+"card-number-required" = "رقم البطاقة مطلوب";
+"invalid-card-number" = "رقم البطاقة غير صحيح";
+"unsupported-network" = "شبكة البطاقة غير مدعومة";
+"expiry-is-required" = "تاريخ الإنتهاء مطلوب";
+"invalid-expiry" = "تاريخ الإنتهاء غير صحيح";
+"expired-card" = "البطاقة منتهية";
+"name-is-required" = "الاسم مطلوب";
+"both-names-required" = "الاسم الأول والثاني مطلوب";
+"only-english-alpha" = "يجب أن يحتوي الاسم على حروف إنجليزية فقط";
+"cvc-required" = "رمز التحقق مطلوب";
+"invalid-cvc" = "رمز تحقق غير صحيح";
+"pay" = "ادفع";
+"SAR" = "ر.س";
+"card" = "معلومات بطاقة الإئتمان";
+// MARK: - Button Type Title
+
+"pay" = "ادفع";
+"buy" = "شراء";
+"book" = "حجز";
+"rent" = "استأجر";
+"continue" = "استمرار";
+"donate" = "تبرع";
+"topUp" = "اشحن";
+"order" = "إتمام الطلب";
+"support" = "دعم";
+
+// MARK: - STC
+
+"mobile-number" = "رقم الجوال";
+"mobile-number-placeholder" = "05x xxx xxxx";
+
+"otp-title" = "رمز التحقق لمرة واحدة";
+"otp-placeholder" = "xxxxxx";
+
+"phone-number-required" = "رقم الجوال مطلوب";
+"invalid-phone-number"  = "رقم الجوال غير صحيح";
+"confirm" = "تأكيد";
+"invalid-otp" = "رمز التحقق لمرة واحدة غير صحيح";

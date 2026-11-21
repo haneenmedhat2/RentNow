@@ -1,0 +1,42 @@
+"name-on-card" = "Name on card";
+"card-number" = "Card Number";
+"expiry" = "Expiry (MM/YY)";
+"cvc" = "CVC";
+"card-number-required" = "Card number is required";
+"invalid-card-number" = "Invalid card number";
+"unsupported-network" = "Unsupported Credit Card network";
+"expiry-is-required" = "Expiry date is required";
+"invalid-expiry" = "Invalid expiry date";
+"expired-card" = "Expired card";
+"name-is-required" = "Name is required";
+"both-names-required" = "Both first and last names are required";
+"only-english-alpha" = "Name may only contain english alphabets";
+"cvc-required" = "Security code is required";
+"invalid-cvc" = "Invalid security code";
+"pay" = "Pay";
+"SAR" = "SAR";
+"card" = "Card information";
+
+// MARK: - Button Type Title
+"pay" = "Pay";
+"buy" = "Buy";
+"book" = "Book";
+"rent" = "Rent";
+"continue" = "Continue";
+"donate" = "Donate";
+"topUp" = "Top Up";
+"order" = "Order";
+"support" = "Support";
+
+// MARK: - STC
+
+"mobile-number" = "Mobile Number";
+"mobile-number-placeholder" = "05x xxx xxxx";
+
+"otp-title" = "One-Time Password";
+"otp-placeholder" = "xxxxxx";
+
+"phone-number-required" = "Phone number is required";
+"invalid-phone-number"  = "Invalid phone number";
+"invalid-otp" = "Invalid OTP";
+"confirm" = "Confirm";

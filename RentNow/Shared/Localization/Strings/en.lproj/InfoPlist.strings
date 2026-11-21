@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  App
+
+  Created by MGAbouarab on 29/12/2023.
+  
+*/
+
+"CFBundleDisplayName" = "Rent now";
+"NSCameraUsageDescription" = "Use the camera for profile photos, rental records, and secure payment verification.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "to get nearest providers around you";
+"NSLocationAlwaysUsageDescription" = "to get nearest providers around you";
+"NSLocationWhenInUseUsageDescription" = "to get nearest providers around you";
+"NSPhotoLibraryUsageDescription" = "Choose photos for your profile, listings, and payment verification.";
+"NSMicrophoneUsageDescription" = "Allow microphone access for secure payment verification.";

@@ -1,0 +1,12 @@
+/* 
+  ImagePickerLocalizable.strings
+  App
+
+  Created by MGAbouarab on 08/01/2024.
+  
+*/
+
+"Pick Image" = "إختر صورة";
+"Camera" = "الكاميرا";
+"Gallery" = "معرض الصور";
+"Cancel" = "الغاء";

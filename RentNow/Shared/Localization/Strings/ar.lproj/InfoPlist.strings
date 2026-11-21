@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  App
+
+  Created by MGAbouarab on 29/12/2023.
+  
+*/
+
+"CFBundleDisplayName" = "أجّر الآن";
+"NSCameraUsageDescription" = "السماح باستخدام الكاميرا لصور الملف الشخصي وسجلات التأجير والتحقق الآمن من الدفع.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = " يريد الوصول إلى موقعك للحصول على أداء أفضل والسماح لك بالوصول إلى أقرب مقدمي الخدمة";
+"NSLocationAlwaysUsageDescription" = " يريد الوصول إلى موقعك للحصول على أداء أفضل والسماح لك بالوصول إلى أقرب مقدمي الخدمة";
+"NSLocationWhenInUseUsageDescription" = " يريد الوصول إلى موقعك للحصول على أداء أفضل والسماح لك بالوصول إلى أقرب مقدمي الخدمة";
+"NSPhotoLibraryUsageDescription" = "اختيار صور للملف الشخصي والإعلانات والتحقق من الدفع.";
+"NSMicrophoneUsageDescription" = "السماح بالوصول إلى الميكروفون للتحقق الآمن من الدفع.";

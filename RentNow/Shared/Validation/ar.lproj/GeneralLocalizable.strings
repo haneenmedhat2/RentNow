@@ -1,0 +1,96 @@
+/* 
+  GeneralLocalizable.strings
+  Three
+
+  Created by Mohamed Elmemy on 15/04/2024.
+  
+*/
+
+
+//MARK: - General
+"Please read and agree our terms and conditions first" = "يرجى قراءة البنود والشروط الخاصة بنا والموافقة عليها أولاً";
+
+"Please enter name." = "الرجاء إدخال الاسم.";
+"Name is too short." = "الإسم قصير جدا.";
+"Name is too long." = "الاسم طويل جدا.";
+"Please enter email field." = "الرجاء إدخال حقل البريد الإلكتروني.";
+"Please enter correct email address." = "الرجاء ادخال عنوان البريد الالكتروني صحيح";
+"Please select city." = "الرجاء تحديد المدينة.";
+"Please select activity type." = "الرجاء تحديد نوع النشاط";
+
+
+"Please pick your profile picture." = "يرجى اختيار صورة ملفك الشخصي.";
+
+//MARK: - Bank -
+"Please enter bank name" = "الرجاء ادخال اسم البنك";
+"Please enter bank account number" = "الرجاء ادخال رقم الحساب";
+"The bank account number must be at least 16 digits long" = "يجب ان يكون رقم الحساب البنكي علي الأقل مكون من 16 رقم";
+
+//MARK: - Phone -
+"Please enter your phone number." = "يرجى إدخال رقم الجوال الخاص بك.";
+"Please enter correct phone number." = "الرجاء إدخال رقم جوال صحيح.";
+
+
+//MARK: - Provider Register -
+"Please enter password field." = "الرجاء إدخال حقل كلمة المرور.";
+"Password is too short, it should be 6 characters at least." = "كلمة المرور قصيرة جدًا ، يجب أن تتكون من 6 أحرف على الأقل.";
+"Please enter new password field." = "الرجاء إدخال حقل كلمة المرور الجديدة.";
+"New password is too short, it should be 6 characters at least." = "كلمة المرور الجديدة قصيرة جدًا ، يجب أن تتكون من 6 أحرف على الأقل.";
+"Please enter old password field." = "الرجاء إدخال حقل كلمة المرور القديمة.";
+"Old password is too short, it should be 6 characters at least." = "كلمة المرور القديمة قصيرة جدًا ، يجب أن تتكون من 6 أحرف على الأقل.";
+"Please enter confirm password field." = "الرجاء إدخال حقل تأكيد كلمة المرور.";
+"Passwords not match." = "كلمات المرور غير متطابقة.";
+"Please read and agree our terms and conditions first" = "يرجى قراءة البنود والشروط الخاصة بنا والموافقة عليها أولاً";
+"Please enter confirmation password" = "الرجاء ادخال تاكيد كلمة المرور";
+"Confirm Password is too short, it should be 6 characters at least." = "تأكيد كلمة المرور قصير جدًا ، يجب أن يتكون من 6 أحرف على الأقل.";
+
+"Passwords not match." = "كلمات المرور غير متطابقة.";
+"Please select his department" = "الرجاء اختيار القسم التابع له";
+"Please specify the subcategories." = "الرجاء تحديد الاقسام الفرعية";
+"Please enter confirm new password field." = "الرجاء ادخال تأكيد كلمه المرور الجديده";
+"Please attach certificates" = "يرجي ارفاق الشهادات";
+"Please attach employment certificate" = "يرجي ارفاق شهادة العمل الحر";
+"Please enter a valid IBAN format consisting of 24 letters and numbers" = "يرجي ادخال صيغة الايبان صحيحة مكونه من 24 حرف ورقم";
+
+
+//MARK: - Verification Code -
+"Please enter verification code" = "الرجاء إدخال رمز التحقق";
+"Verification Code should be 4 digits." = "يجب أن يتكون رمز التحقق من 4 أرقام.";
+
+
+
+//MARK: - User Register -
+"Please enter a description of the activity" = "يرجي ادخال وصف النشاط";
+"Please enter description" = "يرجي ادخال الوصف";
+"Please specify the start date of implementation" = "يرجي تحديد تاريخ بدء التنفيذ";
+"Please specify the start time of implementation" = "يرجي تحديد وقت بدء التنفيذ";
+"Please choose the main section" = "يرجي اختيار القسم الرئيسي";
+"Please select the sub-type" = "يرجي تحديد النوع الفرعي";
+"Please specify the delivery date" = "يرجي تحديد تاريخ الاستلام";
+"Please specify the delivery time" = "يرجي تحديد وقت الاستلام";
+"Please enter the order details" = "يرجي ادخال تفاصيل الطلب";
+
+
+
+"Please enter the message title." = "يرجي ادخال عنوان الرسالة";
+"Please enter the message text." = "يرجي ادخال نص الرسالة";
+
+//MARK: - Plan -
+"Please enter the Properties" = "يرجي ادخال الخصائص";
+"Please enter the Price" = "يرجي ادخال السعر";
+"Please enter duration" = "يرجي ادخال المدة";
+"Please enter package name" = "يرجي ادخال اسم الباقة";
+"Please select the subcategory" = "يرجي اختيار القسم الفرعي";
+
+
+//MARK: - Date and time -
+
+"Please enter start date" = "يرجي ادخال تاريخ البدايه";
+"Please enter start time" = "يرجي ادخال وقت البدايه";
+"Please select a date" = "يرجي اختيار التاريخ";
+"Please select a time" = "يرجي اختيار الوقت";
+"The date must be later than today's date" = "يجب ان يكون التاريخ لاحقا لتاريخ اليوم";
+"The end date must be after the start date" = "يجب ان يكون تاريخ النهايه بعد تاريخ البدايه";
+
+
+

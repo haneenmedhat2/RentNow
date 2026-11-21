@@ -1,0 +1,51 @@
+//
+//  CustomerOrdersFilterTabsView.swift
+//  RentNow
+//
+//  Created by Claude Code
+//
+
+import SwiftUI
+
+struct CustomerOrdersFilterTabsView: View {
+    let selectedFilter: CustomerOrderFilterType
+    var onFilterSelected: (CustomerOrderFilterType) -> Void
+
+    var body: some View {
+        HStack(spacing: 0) {
+            ForEach(CustomerOrderFilterType.allCases, id: \.self) { filter in
+                Button {
+                    onFilterSelected(filter)
+                } label: {
+                    Text(filter.title)
+                        .expoSystemFont(
+                            size: FontSize.small,
+                            weight: filter == selectedFilter ? .bold : .medium
+                        )
+                        .foregroundColor(filter == selectedFilter ? .white : .text)
+                        .frame(maxWidth: .infinity)
+                        .padding(.vertical, 10)
+                        .background(
+                            filter == selectedFilter
+                            ? Capsule().fill(Color.mainColor)
+                            : Capsule().fill(Color.clear)
+                        )
+                }
+                .buttonStyle(.plain)
+            }
+        }
+        .padding(4)
+        .glassyBackground(cornerRadius: 24)
+    }
+}
+
+#Preview {
+    ZStack {
+        MainGradientView()
+        CustomerOrdersFilterTabsView(
+            selectedFilter: .currently,
+            onFilterSelected: { _ in }
+        )
+        .padding()
+    }
+}
